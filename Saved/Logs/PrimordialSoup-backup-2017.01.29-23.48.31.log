@@ -1,0 +1,836 @@
+﻿Log file open, 01/29/17 23:35:27
+LogInit:Display: Running engine for game: PrimordialSoup
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1967691342) SRandInit(1967691342).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.073391
+LogPluginManager: Loaded Plugin Paper2D, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: B:/Programs/Epic/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.29-20.35.28:025][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.29-20.35.28:025][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.29-20.35.28:035][  0]LogInit: Computer: LAKER-PC
+[2017.01.29-20.35.28:035][  0]LogInit: User: laker
+[2017.01.29-20.35.28:035][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.29-20.35.28:035][  0]LogInit: High frequency timer resolution =3.410076 MHz
+[2017.01.29-20.35.28:035][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.29-20.35.28:035][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.29-20.35.28:035][  0]LogMemory: Process Physical Memory: 264.59 MB used, 264.59 MB peak
+[2017.01.29-20.35.28:035][  0]LogMemory: Process Virtual Memory: 262.73 MB used, 262.73 MB peak
+[2017.01.29-20.35.28:035][  0]LogMemory: Physical Memory: 4267.67 MB used,  3791.76 MB free, 8059.43 MB total
+[2017.01.29-20.35.28:035][  0]LogMemory: Virtual Memory: 676.50 MB used,  3791.76 MB free, 134217728.00 MB total
+[2017.01.29-20.35.28:063][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.29-20.35.28:668][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.29-20.35.29:470][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2017.01.29-20.35.29:470][  0]LogD3D11RHI:       4062/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.29-20.35.29:479][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.01.29-20.35.29:479][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.29-20.35.29:481][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.29-20.35.29:481][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.29-20.35.29:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.29-20.35.29:484][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.29-20.35.29:484][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.29-20.35.29:484][  0]LogWindows: EnumDisplayDevices:
+[2017.01.29-20.35.29:484][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2017.01.29-20.35.29:485][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2017.01.29-20.35.29:485][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2017.01.29-20.35.29:485][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2017.01.29-20.35.29:485][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.29-20.35.29:485][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.29-20.35.29:485][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.29-20.35.29:486][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.01.29-20.35.29:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2017.01.29-20.35.29:486][  0]LogD3D11RHI:   Driver Version: 378.49 (internal:21.21.13.7849, unified:378.49)
+[2017.01.29-20.35.29:486][  0]LogD3D11RHI:      Driver Date: 1-20-2017
+[2017.01.29-20.35.29:486][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.29-20.35.30:235][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.29-20.35.30:269][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.29-20.35.30:270][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Intermediate/Shaders/WorkingDirectory/8360/).
+[2017.01.29-20.35.30:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/laker/AppData/Local/Temp/UnrealShaderWorkingDir/989994364B7B154C8D42C2B9293C486F/'.
+[2017.01.29-20.35.30:270][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.29-20.35.31:340][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.29-20.35.31:383][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.29-20.35.31:424][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.29-20.35.31:467][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.29-20.35.31:508][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.29-20.35.31:549][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.29-20.35.31:591][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.29-20.35.31:634][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.29-20.35.31:666][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.29-20.35.31:707][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.29-20.35.31:748][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.29-20.35.31:789][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.29-20.35.31:831][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.29-20.35.31:872][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.29-20.35.31:914][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.29-20.35.31:997][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.29-20.35.31:997][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.29-20.35.32:023][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.29-20.35.32:089][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.29-20.35.32:116][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.29-20.35.32:156][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.29-20.35.32:198][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.29-20.35.32:238][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.29-20.35.32:280][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.29-20.35.32:280][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.29-20.35.32:561][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.29-20.35.32:619][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.29-20.35.32:635][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.29-20.35.32:647][  0]LogDerivedDataCache: Using Local data cache path C:/Users/laker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.29-20.35.32:833][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.29-20.35.32:835][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.29-20.35.33:006][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.29-20.35.33:036][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.29-20.35.33:068][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.29-20.35.33:068][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.29-20.35.33:068][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.29-20.35.33:542][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: primordialsoup, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1510063732
+[2017.01.29-20.35.33:590][  0]LogAssetRegistry: FAssetRegistry took 0.0212 seconds to start up
+[2017.01.29-20.35.33:619][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.015256 seconds
+[2017.01.29-20.35.33:624][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.29-20.35.33:624][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.29-20.35.33:624][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.29-20.35.33:664][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.29-20.35.34:178][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.29-20.35.34:179][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.29-20.35.34:179][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.29-20.35.34:905][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.29-20.35.34:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.29-20.35.35:175][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.29-20.35.35:469][  0]SourceControl: Info Source control is disabled
+[2017.01.29-20.35.35:544][  0]SourceControl: Info Source control is disabled
+[2017.01.29-20.35.35:576][  0]SourceControl: Info Source control is disabled
+[2017.01.29-20.35.35:608][  0]SourceControl: Info Source control is disabled
+[2017.01.29-20.35.35:812][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
+[2017.01.29-20.35.35:812][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
+[2017.01.29-20.35.35:812][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/PrimordialSoup/TopDownOverview.TopDownOverview_C'
+[2017.01.29-20.35.36:503][  0]LogEngine: Initializing Engine...
+[2017.01.29-20.35.36:503][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.29-20.35.36:709][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.29-20.35.36:723][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.29-20.35.36:740][  0]LogInit: FAudioDevice initialized.
+[2017.01.29-20.35.36:767][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.29-20.35.36:774][  0]LogInit: Texture streaming: Enabled
+[2017.01.29-20.35.36:899][  0]LogInit: Transaction tracking system initialized
+[2017.01.29-20.35.37:133][  0]BlueprintLog: New page: Editor Load
+[2017.01.29-20.35.37:733][  0]LocalizationService: Info Localization service is disabled
+[2017.01.29-20.35.38:202][  0]LogConsoleResponse:Display: 
+[2017.01.29-20.35.38:324][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.29-20.35.38:324][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.29-20.35.38:979][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' took 0.01s
+[2017.01.29-20.35.38:979][  0]SourceControl: Info Source control is disabled
+[2017.01.29-20.35.38:979][  0]Cmd: MAP LOAD FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.29-20.35.38:982][  0]LightingResults: New page: Lighting Build
+[2017.01.29-20.35.39:009][  0]MapCheck: New page: Map Check
+[2017.01.29-20.35.39:009][  0]LightingResults: New page: Lighting Build
+[2017.01.29-20.35.39:213][  0]LogAIModule: Creating AISystem for world developmentRoom
+[2017.01.29-20.35.39:218][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.29-20.35.39:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.29-20.35.39:252][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.322ms to complete.
+[2017.01.29-20.35.39:252][  0]LogFileHelpers: Loading map 'developmentRoom' took 0.273
+[2017.01.29-20.35.39:329][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.29-20.35.39:395][  0]LogCollectionManager: Loaded 0 collections in 0.000898 seconds
+[2017.01.29-20.35.39:466][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' took 0.01s
+[2017.01.29-20.35.39:466][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' took 0.01s
+[2017.01.29-20.35.39:466][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' took 0.01s
+[2017.01.29-20.35.39:466][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.01.29-20.35.39:474][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2190 classes and 428 folders.
+[2017.01.29-20.35.39:504][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.29-20.35.39:504][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.29-20.35.39:504][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.01.29-20.35.39:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.01.29-20.35.39:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.29-20.35.39:614][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.01.29-20.35.39:646][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.29-20.35.39:651][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.29-20.35.39:702][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.29-20.35.39:702][  0]LogLoad: (Engine Initialization) Total time: 12.78 seconds
+[2017.01.29-20.35.39:702][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2017.01.29-20.35.39:702][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.29-20.35.39:702][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.29-20.35.39:712][  0]LogOcInput: OculusInput pre-init called
+[2017.01.29-20.35.39:731][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.29-20.35.39:877][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.01.29-20.35.39:937][  1]LogAssetRegistry: Asset discovery search completed in 6.3681 seconds
+[2017.01.29-20.35.39:937][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.29-20.35.39:937][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2017.01.29-20.35.52:532][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:532][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownController.uasset.
+[2017.01.29-20.35.52:541][500]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownController : Can't find file for asset. /Game/TopDownBP/Blueprints/TopDownCharacter
+[2017.01.29-20.35.52:543][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:543][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownController.uasset.
+[2017.01.29-20.35.52:543][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:543][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownController.uasset.
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:545][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:546][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:550][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:550][500]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_DynamicCast_0
+[2017.01.29-20.35.52:550][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:550][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:550][500]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by EdGraphPin_385
+[2017.01.29-20.35.52:550][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:550][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:551][500]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by K2Node_VariableGet_0
+[2017.01.29-20.35.52:551][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:551][500]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.35.52:551][500]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by EdGraphPin_388
+[2017.01.29-20.35.52:551][500]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.35.52:559][500]LogBlueprint:Warning: [TopDownController] 'CursorToWorld' variable not found. Base class was probably changed.
+[2017.01.29-20.35.52:569][500]LogBlueprint:Warning: [Compiler TopDownController] Warning Could not find a variable named "CursorToWorld" in 'TopDownController'.
+Make sure 'TopDownController' has been compiled for  K2Node_VariableGet_0
+[2017.01.29-20.35.52:569][500]LogBlueprint:Warning: [Compiler TopDownController] Warning InputAction Event references unknown Action 'SetDestination' for  K2Node_InputAction_4
+[2017.01.29-20.35.52:571][500]LogBlueprint:Error: [Compiler TopDownController] Error This blueprint (self) is not compatible with ' self ', therefore that pin must have a connection.
+[2017.01.29-20.35.52:571][500]LogBlueprint:Error: [Compiler TopDownController] Error The property associated with  CursorToWorld  could not be found
+[2017.01.29-20.35.52:588][500]LogBlueprint:Warning: [Compiler TopDownController] Warning [0025.65] Compile of TopDownController failed. 2 Fatal Issue(s) 2 Warning(s) [in 18 ms] (/Game/Assets/scripts/Blueprints/TopDownController.TopDownController)
+[2017.01.29-20.35.52:588][500]LogBlueprint:Warning: [Compiler TopDownController] Warning [0025.66] Compile of TopDownController failed. 2 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownController.TopDownController)
+[2017.01.29-20.35.52:588][500]LogBlueprint:Warning: [Compiler TopDownController] Warning [0025.66] Compile of TopDownController failed. 2 Fatal Issue(s) 4 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownController.TopDownController)
+[2017.01.29-20.36.55:467][992]LogBlueprint:Warning: [Compiler TopDownController] Warning Could not find a variable named "CursorToWorld" in 'TopDownController'.
+Make sure 'TopDownController' has been compiled for  K2Node_VariableGet_0
+[2017.01.29-20.36.55:467][992]LogBlueprint:Warning: [Compiler TopDownController] Warning InputAction Event references unknown Action 'SetDestination' for  K2Node_InputAction_4
+[2017.01.29-20.36.55:469][992]LogBlueprint:Error: [Compiler TopDownController] Error This blueprint (self) is not compatible with ' self ', therefore that pin must have a connection.
+[2017.01.29-20.36.55:470][992]LogBlueprint:Error: [Compiler TopDownController] Error The property associated with  CursorToWorld  could not be found
+[2017.01.29-20.36.55:650][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.72] Compile of TopDownController failed. 2 Fatal Issue(s) 2 Warning(s) [in 196 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:672][992]LogBlueprint:Warning: [Compiler TopDownController] Warning Could not find a variable named "CursorToWorld" in 'TopDownController'.
+Make sure 'TopDownController' has been compiled for  K2Node_VariableGet_0
+[2017.01.29-20.36.55:672][992]LogBlueprint:Warning: [Compiler TopDownController] Warning InputAction Event references unknown Action 'SetDestination' for  K2Node_InputAction_4
+[2017.01.29-20.36.55:674][992]LogBlueprint:Error: [Compiler TopDownController] Error This blueprint (self) is not compatible with ' self ', therefore that pin must have a connection.
+[2017.01.29-20.36.55:675][992]LogBlueprint:Error: [Compiler TopDownController] Error The property associated with  CursorToWorld  could not be found
+[2017.01.29-20.36.55:760][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 2 Warning(s) [in 100 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:760][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:761][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 4 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:761][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:761][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 6 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.55:761][992]LogBlueprint:Warning: [Compiler TopDownController] Warning [0088.83] Compile of TopDownController failed. 2 Fatal Issue(s) 7 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/TopDownController.TopDownController)
+[2017.01.29-20.36.58:810][355]LogEditorViewport: Clicking on Actor (LMB): protocell_C (protocell)
+[2017.01.29-20.36.59:146][391]Cmd: DELETE
+[2017.01.29-20.36.59:146][391]Cmd: ACTOR DELETE
+[2017.01.29-20.36.59:148][391]LogEditorActor: Deleted Actor: protocell_C
+[2017.01.29-20.36.59:161][391]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.01.29-20.37.52:135][694]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 111 classes and 0 folders.
+[2017.01.29-20.38.17:092][912]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_protocell_C_0' or package '/Engine/Transient'.
+[2017.01.29-20.38.17:092][912]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_protocell_C_1' or package '/Engine/Transient'.
+[2017.01.29-20.38.17:092][912]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_protocell_C_44' or package '/Engine/Transient'.
+[2017.01.29-20.38.17:092][912]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_protocell_C_43' or package '/Engine/Transient'.
+[2017.01.29-20.38.40:837][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning Could not find a variable named "CursorToWorld" in 'protocellHandler'.
+Make sure 'protocellHandler' has been compiled for  K2Node_VariableGet_0
+[2017.01.29-20.38.40:837][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning InputAction Event references unknown Action 'SetDestination' for  K2Node_InputAction_4
+[2017.01.29-20.38.40:839][719]LogBlueprint:Error: [Compiler protocellHandler] Error This blueprint (self) is not compatible with ' self ', therefore that pin must have a connection.
+[2017.01.29-20.38.40:839][719]LogBlueprint:Error: [Compiler protocellHandler] Error The property associated with  CursorToWorld  could not be found
+[2017.01.29-20.38.40:952][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.02] Compile of protocellHandler failed. 2 Fatal Issue(s) 2 Warning(s) [in 126 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:952][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.02] Compile of protocellHandler failed. 2 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:952][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.02] Compile of protocellHandler failed. 2 Fatal Issue(s) 4 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:952][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.02] Compile of protocellHandler failed. 2 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:979][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.05] Compile of protocellHandler failed. 2 Fatal Issue(s) 6 Warning(s) [in 12 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:980][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.05] Compile of protocellHandler failed. 2 Fatal Issue(s) 7 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:980][719]LogBlueprint:Warning: [Compiler protocellHandler] Warning [0194.05] Compile of protocellHandler failed. 2 Fatal Issue(s) 8 Warning(s) [in 0 ms] (/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler)
+[2017.01.29-20.38.40:980][719]LogMetaData: Removing '/Game/Assets/scripts/actorScripts/protocellHandler.SKEL_protocellHandler_C' ref from Metadata '/Game/Assets/scripts/actorScripts/TopDownController.PackageMetaData'
+[2017.01.29-20.38.40:980][719]LogMetaData: Removing '/Game/Assets/scripts/actorScripts/protocellHandler.protocellHandler_C' ref from Metadata '/Game/Assets/scripts/actorScripts/TopDownController.PackageMetaData'
+[2017.01.29-20.38.41:041][719]LogSavePackage: Save=19.86ms
+[2017.01.29-20.38.41:041][719]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellHandlerE7C7B1A9421C536DDAF087BF1248B49C.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/protocellHandler.uasset'
+[2017.01.29-20.38.41:043][719]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/protocellHandler.uasset
+[2017.01.29-20.39.08:410][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:410][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:410][954]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownCharacter : Can't find file for asset. /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/M_Cursor_Decal'
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/M_Cursor_Decal' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:412][954]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownCharacter : Can't find file for asset. /Game/TopDownBP/Blueprints/M_Cursor_Decal
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:412][954]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownCharacter : Can't find file for asset. /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/M_Cursor_Decal'
+[2017.01.29-20.39.08:412][954]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/M_Cursor_Decal' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:413][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.01.29-20.39.08:413][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownCharacter.uasset.
+[2017.01.29-20.39.08:414][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:414][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/M_Cursor_Decal'
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/M_Cursor_Decal' while loading NULL.
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/M_Cursor_Decal'
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/M_Cursor_Decal' while loading NULL.
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.01.29-20.39.08:415][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:416][954]LoadErrors: Info Failed to load /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C Referenced by Default__TopDownCharacter_C
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading NULL.
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2017.01.29-20.39.08:416][954]LoadErrors: Info Failed to load /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin Referenced by Default__TopDownCharacter_C
+[2017.01.29-20.39.08:416][954]LogLinker:Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading NULL.
+[2017.01.29-20.39.08:424][954]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/M_Cursor_Decal'
+[2017.01.29-20.39.08:424][954]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/M_Cursor_Decal.M_Cursor_Decal Referenced by CursorToWorld_GEN_VARIABLE
+[2017.01.29-20.39.08:424][954]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/M_Cursor_Decal' while loading NULL.
+[2017.01.29-20.39.08:441][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.39.08:443][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.51] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 11 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.08:443][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.51] Compile of TopDownCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.08:443][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.51] Compile of TopDownCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.08:452][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.39.08:455][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.52] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 9 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.08:455][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.52] Compile of TopDownCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.08:455][954]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0221.52] Compile of TopDownCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:742][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.39.09:745][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.81] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 11 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:761][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.39.09:764][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.83] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 8 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:764][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.83] Compile of TopDownCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:764][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.83] Compile of TopDownCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:822][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.89] Compile of TopDownCharacter successful, but with 4 Warning(s) [in 58 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:822][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.89] Compile of TopDownCharacter successful, but with 5 Warning(s) [in 0 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.09:823][103]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0222.89] Compile of TopDownCharacter successful, but with 6 Warning(s) [in 0 ms] (/Game/Assets/actors/TopDownCharacter.TopDownCharacter)
+[2017.01.29-20.39.24:556][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.39.24:559][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.63] Compile of protocellCharacter successful, but with 1 Warning(s) [in 8 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:559][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.63] Compile of protocellCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:559][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.63] Compile of protocellCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:616][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.68] Compile of protocellCharacter successful, but with 4 Warning(s) [in 56 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:631][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.70] Compile of protocellCharacter successful, but with 5 Warning(s) [in 15 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:632][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.70] Compile of protocellCharacter successful, but with 6 Warning(s) [in 0 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:632][856]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0237.70] Compile of protocellCharacter successful, but with 7 Warning(s) [in 0 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.39.24:633][856]LogMetaData: Removing '/Game/Assets/actors/protocellCharacter.SKEL_protocellCharacter_C' ref from Metadata '/Game/Assets/actors/TopDownCharacter.PackageMetaData'
+[2017.01.29-20.39.24:633][856]LogMetaData: Removing '/Game/Assets/actors/protocellCharacter.protocellCharacter_C' ref from Metadata '/Game/Assets/actors/TopDownCharacter.PackageMetaData'
+[2017.01.29-20.39.24:682][856]LogSavePackage: Save=30.12ms
+[2017.01.29-20.39.24:682][856]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharacter22B4583F4E6B3BFE58D5299D3D220B06.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset'
+[2017.01.29-20.39.24:684][856]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset
+[2017.01.29-20.39.33:408][572]LogActorFactory: Actor Factory created Sphere
+[2017.01.29-20.39.36:798][890]LogRenderer: Reallocating scene render targets to support 1208x900 NumSamples 1 (Frame:23346).
+[2017.01.29-20.40.27:766][211]BlueprintLog: New page: Compile protocellCharacter
+[2017.01.29-20.40.27:780][211]LogBlueprint:Warning: [Compiler protocellCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.40.27:780][211]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.27:780][211]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.27:780][211]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.28:049][211]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.40.28:049][211]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.28:049][211]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.28:049][211]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.40.28:050][211]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0301.11] Compile of protocellCharacter failed. 3 Fatal Issue(s) 1 Warning(s) [in 283 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.41.36:312][170]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.01.29-20.41.37:259][271]Cmd: DELETE
+[2017.01.29-20.41.37:259][271]Cmd: ACTOR DELETE
+[2017.01.29-20.41.37:259][271]LogEditorActor: Deleted Actor: CameraActor
+[2017.01.29-20.41.37:304][271]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.01.29-20.42.11:329][892]BlueprintLog: New page: Compile protocellCharacter
+[2017.01.29-20.42.11:341][892]LogBlueprint:Warning: [Compiler protocellCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.42.11:342][892]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:342][892]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:342][892]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:493][892]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.42.11:493][892]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:493][892]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:493][892]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.42.11:493][892]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0404.56] Compile of protocellCharacter failed. 3 Fatal Issue(s) 1 Warning(s) [in 164 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.43.05:705][846]LogSavePackage: Save=22.44ms
+[2017.01.29-20.43.05:705][846]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharacter0E193B5145691FA763E6E2A079B09007.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset'
+[2017.01.29-20.43.05:707][846]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset
+[2017.01.29-20.43.06:196][881]BlueprintLog: New page: Compile protocellCharacter
+[2017.01.29-20.43.06:206][881]LogBlueprint:Warning: [Compiler protocellCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.43.06:206][881]LogBlueprint:Error: [Compiler protocellCharacter] Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.43.06:415][881]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
+[2017.01.29-20.43.06:415][881]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ActorComponent, therefore ' self ' must have a connection.
+[2017.01.29-20.43.06:415][881]LogBlueprint:Warning: [Compiler protocellCharacter] Warning [0459.48] Compile of protocellCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 219 ms] (/Game/Assets/actors/protocellCharacter.protocellCharacter)
+[2017.01.29-20.43.22:465][184]LogSavePackage: Save=20.56ms
+[2017.01.29-20.43.22:465][184]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharacter794B746142A8C1F2749146885D945B07.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset'
+[2017.01.29-20.43.22:467][184]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset
+[2017.01.29-20.43.22:871][214]BlueprintLog: New page: Compile protocellCharacter
+[2017.01.29-20.45.11:479][822]LogSavePackage: Save=21.37ms
+[2017.01.29-20.45.11:479][822]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharacter410CEFD24B64C4300D20D3A68D3439C5.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset'
+[2017.01.29-20.45.11:481][822]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset
+[2017.01.29-20.45.58:992][423]LogSavePackage: Save=19.75ms
+[2017.01.29-20.45.58:992][423]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharacter2A2C93504056EE853DA5FDAB7A544E8E.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset'
+[2017.01.29-20.45.58:994][423]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellCharacter.uasset
+[2017.01.29-20.45.59:568][465]BlueprintLog: New page: Compile protocellCharacter
+[2017.01.29-20.45.59:579][465]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.protocellCharacter_2.CollisionCylinder is already used by CapsuleComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.REINST_protocellCharacter_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.29-20.45.59:579][465]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.protocellCharacter_2.Arrow is already used by ArrowComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.REINST_protocellCharacter_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.29-20.45.59:579][465]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.protocellCharacter_2.CharMoveComp is already used by CharacterMovementComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.REINST_protocellCharacter_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.29-20.45.59:579][465]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.protocellCharacter_2.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom:PersistentLevel.REINST_protocellCharacter_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.01.29-20.46.49:706][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.46.49:706][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownGameMode.uasset.
+[2017.01.29-20.46.49:706][123]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownGameMode : Can't find file for asset. /Game/TopDownBP/Blueprints/TopDownCharacter
+[2017.01.29-20.46.49:706][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownController'
+[2017.01.29-20.46.49:706][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownController' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownGameMode.uasset.
+[2017.01.29-20.46.49:706][123]LoadErrors:Error: Error /Game/Assets/scripts/Blueprints/TopDownGameMode : Can't find file for asset. /Game/TopDownBP/Blueprints/TopDownController
+[2017.01.29-20.46.49:707][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.46.49:707][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownGameMode.uasset.
+[2017.01.29-20.46.49:707][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownController'
+[2017.01.29-20.46.49:707][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownController' while loading ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/Blueprints/TopDownGameMode.uasset.
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownController'
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownController' while loading NULL.
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.46.49:708][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.46.49:709][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownController'
+[2017.01.29-20.46.49:709][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownController' while loading NULL.
+[2017.01.29-20.46.49:709][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownController'
+[2017.01.29-20.46.49:709][123]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C Referenced by Default__TopDownGameMode_C
+[2017.01.29-20.46.49:709][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownController' while loading NULL.
+[2017.01.29-20.46.49:709][123]LogLinker:Warning: Can't find file '/Game/TopDownBP/Blueprints/TopDownCharacter'
+[2017.01.29-20.46.49:709][123]LoadErrors: Info Failed to load /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C Referenced by Default__TopDownGameMode_C
+[2017.01.29-20.46.49:710][123]LogLinker:Warning: Can't find file for asset '/Game/TopDownBP/Blueprints/TopDownCharacter' while loading NULL.
+[2017.01.29-20.47.09:800][482]LogMetaData: Removing '/Game/Assets/scripts/mapScript/protocellGameMode.SKEL_protocellGameMode_C' ref from Metadata '/Game/Assets/scripts/mapScript/TopDownGameMode.PackageMetaData'
+[2017.01.29-20.47.09:800][482]LogMetaData: Removing '/Game/Assets/scripts/mapScript/protocellGameMode.protocellGameMode_C' ref from Metadata '/Game/Assets/scripts/mapScript/TopDownGameMode.PackageMetaData'
+[2017.01.29-20.47.09:828][482]LogSavePackage: Save=6.03ms
+[2017.01.29-20.47.09:828][482]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellGameMode5BCF37254E641997DF5338B4D628C06C.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset'
+[2017.01.29-20.47.09:829][482]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset
+[2017.01.29-20.47.30:354][568]BlueprintLog: New page: Compile protocellGameMode
+[2017.01.29-20.47.31:228][641]LogSavePackage: Save=5.49ms
+[2017.01.29-20.47.31:228][641]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellGameModeE16A5276413C52265A8E6AA3A98C5670.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset'
+[2017.01.29-20.47.31:229][641]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset
+[2017.01.29-20.47.33:826][917]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.29-20.47.33:837][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.29-20.47.48:225][618]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.01.29-20.47.48:287][620]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PrimordialSoup
+
+[2017.01.29-20.47.48:287][620]LogTemp:Display: CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.29-20.47.48:287][620]LogTemp:Display: Initial Dir: B:\Programs\Epic\Epic Games\4.14
+
+[2017.01.29-20.47.48:287][620]LogTemp:Display: Env CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.29-20.47.48:302][621]LogTemp:Display: BranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries --- GameBranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\laker\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display: 
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.29-20.47.48:314][622]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.29-20.47.54:873][283]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.01.29-20.48.13:435][235]LogSavePackage: Save=24.04ms
+[2017.01.29-20.48.13:435][235]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoomBC544EFE40567CE3C48480865C16101F.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap'
+[2017.01.29-20.48.13:437][235]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap
+[2017.01.29-20.48.13:453][235]LogFileHelpers: Saving map 'developmentRoom' took 0.103
+[2017.01.29-20.48.13:459][235]LogSavePackage: Save=1.63ms
+[2017.01.29-20.48.13:459][235]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/TopDownController3DF14FDB4E4AC0F2D61CAB9F65377454.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/TopDownController.uasset'
+[2017.01.29-20.48.13:461][235]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/TopDownController.uasset
+[2017.01.29-20.48.13:467][235]LogSavePackage: Save=1.41ms
+[2017.01.29-20.48.13:467][235]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/TopDownCharacter65CD0EFE432B48DF6837918E24C0D1E0.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/TopDownCharacter.uasset'
+[2017.01.29-20.48.13:469][235]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/TopDownCharacter.uasset
+[2017.01.29-20.48.13:474][235]LogSavePackage: Save=1.44ms
+[2017.01.29-20.48.13:474][235]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/TopDownGameModeB89FB47D48B620FBB152AB882415CEAC.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/TopDownGameMode.uasset'
+[2017.01.29-20.48.13:477][235]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/TopDownGameMode.uasset
+[2017.01.29-20.48.14:919][375]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.01.29-20.48.14:979][375]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.29-20.48.15:245][376]Cmd: QUIT_EDITOR
+[2017.01.29-20.48.15:294][376]LogExit: Preparing to exit.
+[2017.01.29-20.48.16:319][376]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
+[2017.01.29-20.48.16:346][376]LogExit: Editor shut down
+[2017.01.29-20.48.16:346][376]LogExit: Transaction tracking system shut down
+[2017.01.29-20.48.16:438][376]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.29-20.48.16:438][376]LogExit: Object subsystem successfully closed.
+[2017.01.29-20.48.16:458][376]LogD3D11RHI: Shutdown
+[2017.01.29-20.48.16:458][376]LogD3D11RHI: CleanupD3DDevice
+[2017.01.29-20.48.16:537][376]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.29-20.48.16:544][376]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.29-20.48.16:544][376]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C004EF6-4370-EAD5-31F8-6E8158F62A49%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=79261e63407afad88666eeac45b97bac%7C59c513c77e104fb391b6ddd67aba2485%7Cccfefd32-51bd-4421-aa1f-7f30b92f3991&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (244)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module BlueprintGraph (243)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (242)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.29-20.48.16:546][376]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.29-20.48.16:546][376]LogDirectoryWatcher: A directory notification for 'B:/Programs/Epic/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.29-20.48.16:547][376]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' was aborted.
+[2017.01.29-20.48.16:547][376]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' was aborted.
+[2017.01.29-20.48.16:547][376]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' was aborted.
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.29-20.48.16:547][376]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.29-20.48.16:548][376]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.29-20.48.16:548][376]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.29-20.48.16:548][376]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.29-20.48.16:548][376]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.29-20.48.17:272][376]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.29-20.48.17:273][376]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.29-20.48.17:315][376]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.29-20.48.17:322][376]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.29-20.48.17:322][376]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.29-20.48.17:324][376]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.29-20.48.17:435][376]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.29-20.48.17:436][376]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.29-20.48.17:437][376]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.29-20.48.17:438][376]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.29-20.48.17:438][376]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.29-20.48.17:539][376]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.29-20.48.17:639][376]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.29-20.48.17:641][376]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.29-20.48.17:641][376]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.29-20.48.17:641][376]LogDirectoryWatcher: A directory notification for '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
+[2017.01.29-20.48.17:641][376]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.29-20.48.17:642][376]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.29-20.48.17:796][376]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.29-20.48.17:828][376]LogDerivedDataCache: Shutdown
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.29-20.48.17:828][376]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.29-20.48.17:828][376]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.29-20.48.17:830][376]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.29-20.48.17:833][376]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.29-20.48.17:834][376]LogExit: Exiting.
+[2017.01.29-20.48.17:836][376]Log file closed, 01/29/17 23:48:17

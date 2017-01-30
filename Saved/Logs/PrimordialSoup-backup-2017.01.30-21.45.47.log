@@ -1,0 +1,1278 @@
+﻿Log file open, 01/30/17 21:30:14
+LogInit:Display: Running engine for game: PrimordialSoup
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(406484243) SRandInit(406484243).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.069839
+LogPluginManager: Loaded Plugin Paper2D, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: B:/Programs/Epic/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.30-18.30.15:055][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.30-18.30.15:055][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.30-18.30.15:063][  0]LogInit: Computer: LAKER-PC
+[2017.01.30-18.30.15:063][  0]LogInit: User: laker
+[2017.01.30-18.30.15:063][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.30-18.30.15:063][  0]LogInit: High frequency timer resolution =3.410076 MHz
+[2017.01.30-18.30.15:063][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.01.30-18.30.15:063][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.30-18.30.15:063][  0]LogMemory: Process Physical Memory: 264.68 MB used, 264.68 MB peak
+[2017.01.30-18.30.15:063][  0]LogMemory: Process Virtual Memory: 262.74 MB used, 262.74 MB peak
+[2017.01.30-18.30.15:063][  0]LogMemory: Physical Memory: 4919.46 MB used,  3139.96 MB free, 8059.43 MB total
+[2017.01.30-18.30.15:063][  0]LogMemory: Virtual Memory: 676.50 MB used,  3139.96 MB free, 134217728.00 MB total
+[2017.01.30-18.30.15:088][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.01.30-18.30.15:693][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.30-18.30.16:446][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2017.01.30-18.30.16:446][  0]LogD3D11RHI:       4062/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.01.30-18.30.16:454][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.01.30-18.30.16:454][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.30-18.30.16:455][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.30-18.30.16:455][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.30-18.30.16:455][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.30-18.30.16:459][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.30-18.30.16:459][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.30-18.30.16:459][  0]LogWindows: EnumDisplayDevices:
+[2017.01.30-18.30.16:459][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2017.01.30-18.30.16:459][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2017.01.30-18.30.16:460][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2017.01.30-18.30.16:460][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2017.01.30-18.30.16:460][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.30-18.30.16:460][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.30-18.30.16:460][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.30-18.30.16:460][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.01.30-18.30.16:460][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2017.01.30-18.30.16:460][  0]LogD3D11RHI:   Driver Version: 378.49 (internal:21.21.13.7849, unified:378.49)
+[2017.01.30-18.30.16:460][  0]LogD3D11RHI:      Driver Date: 1-20-2017
+[2017.01.30-18.30.16:460][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.30-18.30.17:141][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.30-18.30.17:177][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.30-18.30.17:178][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Intermediate/Shaders/WorkingDirectory/12820/).
+[2017.01.30-18.30.17:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/laker/AppData/Local/Temp/UnrealShaderWorkingDir/00ECF3234877552B83F1458577878713/'.
+[2017.01.30-18.30.17:178][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.30-18.30.18:197][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.30-18.30.18:238][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.30-18.30.18:278][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.30-18.30.18:321][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.30-18.30.18:361][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.30-18.30.18:401][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.30-18.30.18:441][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.30-18.30.18:481][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.30-18.30.18:513][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.30-18.30.18:552][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.30-18.30.18:592][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.30-18.30.18:631][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.30-18.30.18:670][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.30-18.30.18:710][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.30-18.30.18:750][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.30-18.30.18:828][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.30-18.30.18:828][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.30-18.30.18:854][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.30-18.30.18:917][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.30-18.30.18:942][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.30-18.30.18:980][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.30-18.30.19:019][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.30-18.30.19:058][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.30-18.30.19:097][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.30-18.30.19:097][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.30-18.30.19:352][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.30-18.30.19:407][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.30-18.30.19:422][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.30-18.30.19:434][  0]LogDerivedDataCache: Using Local data cache path C:/Users/laker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.30-18.30.19:610][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.30-18.30.19:613][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.30-18.30.19:779][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.30-18.30.19:807][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.30-18.30.19:838][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.30-18.30.19:838][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.30-18.30.19:838][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.30-18.30.20:298][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: primordialsoup, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1510063732
+[2017.01.30-18.30.20:345][  0]LogAssetRegistry: FAssetRegistry took 0.0212 seconds to start up
+[2017.01.30-18.30.20:372][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.013576 seconds
+[2017.01.30-18.30.20:377][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.30-18.30.20:377][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.01.30-18.30.20:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.30-18.30.20:414][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.30-18.30.20:897][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.30-18.30.20:897][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.30-18.30.20:897][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.30-18.30.21:591][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.30-18.30.21:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.30-18.30.21:855][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.30-18.30.22:141][  0]SourceControl: Info Source control is disabled
+[2017.01.30-18.30.22:213][  0]SourceControl: Info Source control is disabled
+[2017.01.30-18.30.22:244][  0]SourceControl: Info Source control is disabled
+[2017.01.30-18.30.22:276][  0]SourceControl: Info Source control is disabled
+[2017.01.30-18.30.22:478][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
+[2017.01.30-18.30.22:478][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
+[2017.01.30-18.30.22:478][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/PrimordialSoup/TopDownOverview.TopDownOverview_C'
+[2017.01.30-18.30.23:145][  0]LogEngine: Initializing Engine...
+[2017.01.30-18.30.23:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.30-18.30.23:345][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.30-18.30.23:359][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.30-18.30.23:376][  0]LogInit: FAudioDevice initialized.
+[2017.01.30-18.30.23:402][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.30-18.30.23:409][  0]LogInit: Texture streaming: Enabled
+[2017.01.30-18.30.23:531][  0]LogInit: Transaction tracking system initialized
+[2017.01.30-18.30.23:760][  0]BlueprintLog: New page: Editor Load
+[2017.01.30-18.30.24:340][  0]LocalizationService: Info Localization service is disabled
+[2017.01.30-18.30.24:777][  0]LogConsoleResponse:Display: 
+[2017.01.30-18.30.24:896][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.30-18.30.24:896][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.30-18.30.25:150][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' took 0.01s
+[2017.01.30-18.30.25:533][  0]SourceControl: Info Source control is disabled
+[2017.01.30-18.30.25:533][  0]Cmd: MAP LOAD FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.30-18.30.25:535][  0]LightingResults: New page: Lighting Build
+[2017.01.30-18.30.25:562][  0]MapCheck: New page: Map Check
+[2017.01.30-18.30.25:562][  0]LightingResults: New page: Lighting Build
+[2017.01.30-18.30.25:779][  0]LogAIModule: Creating AISystem for world developmentRoom
+[2017.01.30-18.30.25:804][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.30-18.30.25:804][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.30-18.30.25:839][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.053ms to complete.
+[2017.01.30-18.30.25:839][  0]LogFileHelpers: Loading map 'developmentRoom' took 0.306
+[2017.01.30-18.30.25:914][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.30-18.30.25:978][  0]LogCollectionManager: Loaded 0 collections in 0.000957 seconds
+[2017.01.30-18.30.26:046][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' took 0.01s
+[2017.01.30-18.30.26:046][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' took 0.01s
+[2017.01.30-18.30.26:046][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' took 0.01s
+[2017.01.30-18.30.26:046][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.30-18.30.26:054][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2190 classes and 428 folders.
+[2017.01.30-18.30.26:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.30-18.30.26:082][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.30-18.30.26:082][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.01.30-18.30.26:122][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.30-18.30.26:160][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.01.30-18.30.26:197][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.30-18.30.26:227][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.30-18.30.26:233][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.30-18.30.26:285][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.01.30-18.30.26:285][  0]LogLoad: (Engine Initialization) Total time: 12.28 seconds
+[2017.01.30-18.30.26:285][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
+[2017.01.30-18.30.26:285][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.30-18.30.26:285][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.30-18.30.26:294][  0]LogOcInput: OculusInput pre-init called
+[2017.01.30-18.30.26:313][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.30-18.30.26:458][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
+[2017.01.30-18.30.26:523][  1]LogAssetRegistry: Asset discovery search completed in 6.1986 seconds
+[2017.01.30-18.30.26:523][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.30-18.30.26:523][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2017.01.30-18.30.33:809][749]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.01.30-18.30.33:862][751]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PrimordialSoup
+
+[2017.01.30-18.30.33:862][751]LogTemp:Display: CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.30-18.30.33:862][751]LogTemp:Display: Initial Dir: B:\Programs\Epic\Epic Games\4.14
+
+[2017.01.30-18.30.33:862][751]LogTemp:Display: Env CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.01.30-18.30.33:864][751]LogTemp:Display: BranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries --- GameBranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries
+
+[2017.01.30-18.30.33:891][752]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\laker\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display: 
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.01.30-18.30.33:892][752]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2017.01.30-18.31.01:032][920]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 111 classes and 0 folders.
+[2017.01.30-18.31.39:146][382]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.30-18.31.39:160][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.30-18.31.39:161][382]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:31:39 AM)
+[2017.01.30-18.31.39:161][382]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
+[2017.01.30-18.31.39:164][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002892s)
+[2017.01.30-18.31.39:164][382]LogAIModule: Creating AISystem for world developmentRoom
+[2017.01.30-18.31.39:165][382]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2017.01.30-18.31.39:165][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.004097s)
+[2017.01.30-18.31.39:198][382]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.30-18.31.39:212][382]LogInit: FAudioDevice initialized.
+[2017.01.30-18.31.39:268][382]LogLoad: Game class is 'protocellGameMode_C'
+[2017.01.30-18.31.39:271][382]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.31.39
+[2017.01.30-18.31.39:271][382]LogWorld: Bringing up level for play took: 0.000976
+[2017.01.30-18.31.39:300][382]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2017.01.30-18.31.39:301][382]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 1.004
+[2017.01.30-18.31.39:713][427]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:719][428]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:728][429]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:736][430]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:744][431]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:753][432]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:761][433]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:769][434]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:778][435]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:786][436]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:861][445]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:870][446]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:878][447]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:886][448]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:895][449]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:903][450]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:911][451]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:920][452]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:928][453]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:936][454]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.39:945][455]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:020][464]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:028][465]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:036][466]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:045][467]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:053][468]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:061][469]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:069][470]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:078][471]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:086][472]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:094][473]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:103][474]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:204][486]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:211][487]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:220][488]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:228][489]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:236][490]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:245][491]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:253][492]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:261][493]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:270][494]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:429][513]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:436][514]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:444][515]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:453][516]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:461][517]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:470][518]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:478][519]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:486][520]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:494][521]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:503][522]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:587][532]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:594][533]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:603][534]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:611][535]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:619][536]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:628][537]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:636][538]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:644][539]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.40:653][540]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:254][612]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:262][613]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:270][614]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:279][615]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:287][616]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:295][617]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:303][618]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:312][619]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:320][620]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:328][621]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:338][622]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:345][623]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:471][638]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:478][639]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:487][640]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:495][641]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:503][642]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:512][643]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:520][644]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:528][645]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:537][646]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:663][661]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:670][662]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:678][663]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:687][664]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:695][665]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:703][666]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:711][667]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:720][668]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:728][669]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:736][670]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:829][681]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:836][682]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:845][683]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:853][684]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:861][685]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:870][686]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:878][687]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:887][688]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:895][689]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:903][690]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:912][691]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:920][692]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:928][693]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:936][694]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:945][695]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:953][696]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:961][697]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:970][698]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.41:978][699]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:112][715]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:120][716]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:128][717]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:136][718]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:145][719]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:153][720]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:162][721]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:170][722]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:178][723]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:187][724]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:195][725]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:203][726]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:212][727]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:220][728]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:228][729]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:236][730]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:245][731]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:371][746]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:379][747]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:387][748]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:395][749]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:404][750]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:412][751]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:420][752]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:429][753]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:437][754]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:445][755]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:454][756]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:462][757]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:470][758]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:479][759]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:487][760]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:495][761]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:503][762]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:621][776]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:628][777]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:637][778]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:645][779]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:653][780]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:662][781]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:670][782]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:678][783]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:687][784]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:695][785]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:703][786]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:712][787]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:720][788]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:728][789]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:737][790]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:745][791]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:753][792]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:762][793]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:770][794]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:778][795]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:787][796]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:795][797]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:896][809]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:904][810]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:912][811]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:920][812]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:929][813]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:937][814]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:945][815]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:954][816]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:962][817]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:970][818]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:979][819]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:987][820]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.42:995][821]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:004][822]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:012][823]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:020][824]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:029][825]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:138][838]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:145][839]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:154][840]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:162][841]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:170][842]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:179][843]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:187][844]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:195][845]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:204][846]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:212][847]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:220][848]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:229][849]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:237][850]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:245][851]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:254][852]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:262][853]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:270][854]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:279][855]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:287][856]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:295][857]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:413][871]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:420][872]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:428][873]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:437][874]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:445][875]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:453][876]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:462][877]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:470][878]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:479][879]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:487][880]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:495][881]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:504][882]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:512][883]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:521][884]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:529][885]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:537][886]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:546][887]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:554][888]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:562][889]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:570][890]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:579][891]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:587][892]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:595][893]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:688][904]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:695][905]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:704][906]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:712][907]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:721][908]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:729][909]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:737][910]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:745][911]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:754][912]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:762][913]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:770][914]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:779][915]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:787][916]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:795][917]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:804][918]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:812][919]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:820][920]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:829][921]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:837][922]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:845][923]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:946][935]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:954][936]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:962][937]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:970][938]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:979][939]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:987][940]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.43:995][941]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:004][942]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:012][943]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:020][944]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:029][945]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:037][946]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:046][947]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:054][948]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:062][949]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:071][950]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:079][951]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:087][952]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:096][953]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:104][954]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:112][955]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:222][968]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:229][969]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:237][970]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:246][971]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:254][972]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:262][973]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:271][974]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:279][975]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:287][976]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:295][977]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:304][978]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:312][979]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:321][980]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:329][981]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:337][982]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:346][983]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:354][984]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:362][985]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:370][986]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:379][987]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:387][988]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:395][989]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:404][990]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:412][991]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:421][992]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:429][993]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:437][994]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:445][995]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:529][  5]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:537][  6]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:546][  7]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:554][  8]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:562][  9]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:570][ 10]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:579][ 11]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:587][ 12]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:595][ 13]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:604][ 14]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:612][ 15]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:620][ 16]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:629][ 17]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:637][ 18]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:646][ 19]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:654][ 20]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:662][ 21]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:671][ 22]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:679][ 23]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:687][ 24]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:696][ 25]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:704][ 26]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:712][ 27]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:721][ 28]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:729][ 29]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:737][ 30]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:746][ 31]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:880][ 47]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:887][ 48]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:896][ 49]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:904][ 50]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:912][ 51]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:921][ 52]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:929][ 53]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:937][ 54]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:946][ 55]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:954][ 56]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:962][ 57]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:971][ 58]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:979][ 59]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:987][ 60]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.44:996][ 61]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:004][ 62]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:012][ 63]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:021][ 64]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:029][ 65]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:037][ 66]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:046][ 67]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:054][ 68]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:062][ 69]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:071][ 70]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:079][ 71]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:087][ 72]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:095][ 73]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:104][ 74]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:112][ 75]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:121][ 76]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:263][ 93]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:271][ 94]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:279][ 95]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:288][ 96]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:296][ 97]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:304][ 98]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:312][ 99]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:321][100]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:329][101]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:338][102]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:346][103]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:354][104]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:362][105]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:371][106]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:379][107]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:388][108]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:396][109]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:404][110]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:496][121]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:504][122]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:512][123]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:521][124]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:529][125]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:537][126]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:546][127]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:554][128]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:562][129]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:571][130]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:579][131]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:587][132]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:596][133]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:604][134]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:612][135]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:621][136]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:629][137]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:637][138]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:646][139]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:654][140]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:662][141]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:671][142]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:679][143]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:687][144]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:696][145]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:704][146]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:712][147]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:721][148]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:938][174]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:946][175]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:954][176]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:963][177]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:971][178]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:979][179]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:988][180]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.45:996][181]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:004][182]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:013][183]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:021][184]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:029][185]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:038][186]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:046][187]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:054][188]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:062][189]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:071][190]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:079][191]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:088][192]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:096][193]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:104][194]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:113][195]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:121][196]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:129][197]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:137][198]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:146][199]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:154][200]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:364][225]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:371][226]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:380][227]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:388][228]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:396][229]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:405][230]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:413][231]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:421][232]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:429][233]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:438][234]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:446][235]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:455][236]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:463][237]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:471][238]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:479][239]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:488][240]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:496][241]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:504][242]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:513][243]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:521][244]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:529][245]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:538][246]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:546][247]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:554][248]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:780][275]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:788][276]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:796][277]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:804][278]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:813][279]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:821][280]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:829][281]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:838][282]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:846][283]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:855][284]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:863][285]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:871][286]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:879][287]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:888][288]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:896][289]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:904][290]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:913][291]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:921][292]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:929][293]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:938][294]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:946][295]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:954][296]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:963][297]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:971][298]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:979][299]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:988][300]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.46:996][301]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:080][311]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:088][312]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:096][313]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:105][314]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:113][315]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:121][316]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:130][317]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:138][318]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:146][319]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:155][320]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:163][321]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:171][322]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:180][323]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:188][324]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:196][325]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:438][354]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:446][355]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:454][356]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:463][357]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:471][358]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:479][359]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:488][360]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:496][361]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:504][362]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:513][363]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:521][364]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:529][365]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:538][366]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:546][367]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:554][368]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:563][369]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:571][370]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:579][371]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:588][372]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:596][373]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:605][374]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:613][375]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:622][376]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:630][377]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:638][378]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:646][379]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:655][380]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:663][381]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:671][382]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:680][383]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:688][384]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:696][385]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:705][386]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:713][387]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:721][388]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:730][389]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:738][390]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:747][391]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:755][392]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:763][393]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:771][394]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:780][395]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:788][396]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:796][397]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:805][398]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:813][399]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:821][400]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:829][401]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:838][402]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:846][403]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:855][404]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:863][405]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:871][406]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:879][407]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:888][408]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:896][409]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:904][410]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:913][411]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:921][412]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:929][413]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:938][414]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.47:946][415]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:631][497]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:638][498]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:647][499]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:655][500]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:663][501]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:671][502]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:680][503]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:688][504]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:696][505]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:705][506]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:713][507]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:788][516]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:796][517]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:805][518]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:813][519]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:821][520]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:830][521]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:838][522]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:846][523]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:855][524]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:863][525]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.31.48:871][526]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.12:101][279]LogEditorViewport: Clicking on Actor (LMB): protocellChar_C (protocellChar)
+[2017.01.30-18.32.35:820][ 88]LogSavePackage: Save=15.41ms
+[2017.01.30-18.32.35:820][ 88]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoom9E11775F4B7945F6271F339E1D3F93D3.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap'
+[2017.01.30-18.32.35:822][ 88]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap
+[2017.01.30-18.32.35:880][ 88]LogSavePackage: Save=34.88ms
+[2017.01.30-18.32.35:880][ 88]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoom_BuiltDataC4A4C31D49E602018FCE8AB9D9FE446B.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset'
+[2017.01.30-18.32.35:881][ 88]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset
+[2017.01.30-18.32.37:113][230]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.30-18.32.37:125][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.30-18.32.37:125][230]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:32:37 AM)
+[2017.01.30-18.32.37:125][230]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
+[2017.01.30-18.32.37:127][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2017.01.30-18.32.37:128][230]LogAIModule: Creating AISystem for world developmentRoom
+[2017.01.30-18.32.37:128][230]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2017.01.30-18.32.37:128][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003076s)
+[2017.01.30-18.32.37:177][230]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.30-18.32.37:191][230]LogInit: FAudioDevice initialized.
+[2017.01.30-18.32.37:223][230]LogLoad: Game class is 'protocellGameMode_C'
+[2017.01.30-18.32.37:226][230]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.32.37
+[2017.01.30-18.32.37:226][230]LogWorld: Bringing up level for play took: 0.001084
+[2017.01.30-18.32.37:226][230]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.921
+[2017.01.30-18.32.37:615][274]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:622][275]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:631][276]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:639][277]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:647][278]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:656][279]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:664][280]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:673][281]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:681][282]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:689][283]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:698][284]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.32.37:706][285]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.34.03:371][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.01.30-18.41.53:963][798]LogEditorViewport: Clicking Background
+[2017.01.30-18.41.57:790][234]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.01.30-18.42.24:381][364]MapCheck: New page: Map Check
+[2017.01.30-18.42.24:403][364]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.01.30-18.42.24:403][364]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:42:24 AM
+[2017.01.30-18.42.24:490][364]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 87.163ms to complete.
+[2017.01.30-18.42.24:512][364]LogEditorBuildUtils: Build time 0:00
+[2017.01.30-18.42.27:463][706]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.30-18.42.27:475][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.30-18.42.27:475][706]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:42:27 AM)
+[2017.01.30-18.42.27:475][706]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
+[2017.01.30-18.42.27:479][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003861s)
+[2017.01.30-18.42.27:480][706]LogAIModule: Creating AISystem for world developmentRoom
+[2017.01.30-18.42.27:480][706]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2017.01.30-18.42.27:480][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.005305s)
+[2017.01.30-18.42.27:505][706]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.30-18.42.27:518][706]LogInit: FAudioDevice initialized.
+[2017.01.30-18.42.27:551][706]LogLoad: Game class is 'protocellGameMode_C'
+[2017.01.30-18.42.27:553][706]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.42.27
+[2017.01.30-18.42.27:553][706]LogWorld: Bringing up level for play took: 0.001174
+[2017.01.30-18.42.27:554][706]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom -0.785
+[2017.01.30-18.42.28:245][786]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:252][787]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:260][788]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:269][789]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:277][790]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:285][791]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:294][792]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:302][793]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.28:310][794]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:020][879]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:027][880]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:036][881]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:044][882]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:052][883]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:061][884]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:069][885]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:077][886]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:086][887]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:094][888]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:102][889]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.29:111][890]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
+[2017.01.30-18.42.38:409][973]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.01.30-18.42.39:882][148]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.01.30-18.42.42:648][454]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.01.30-18.43.42:505][931]LogSavePackage: Save=16.83ms
+[2017.01.30-18.43.42:505][931]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoom_Auto17E6ED0C04BB2E78B3183CAB826C30CF0.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Autosaves/Game/Assets/maps/developmentMaps/developmentRoom_Auto1.umap'
+[2017.01.30-18.43.42:506][931]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Autosaves/Game/Assets/maps/developmentMaps/developmentRoom_Auto1.umap
+[2017.01.30-18.43.42:508][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/maps/developmentMaps/developmentRoom' took 0.038
+[2017.01.30-18.43.42:508][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.038
+[2017.01.30-18.43.42:509][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/scripts/actorScripts/protocellHandler] ([1] browsable assets)...
+[2017.01.30-18.43.42:509][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/scripts/actorScripts/protocellHandler]
+[2017.01.30-18.43.42:530][931]LogSavePackage: Save=17.44ms
+[2017.01.30-18.43.42:530][931]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellHandler_Auto16CBF77D8457DBE5A2C0339817580A858.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Autosaves/Game/Assets/scripts/actorScripts/protocellHandler_Auto1.uasset'
+[2017.01.30-18.43.42:531][931]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Autosaves/Game/Assets/scripts/actorScripts/protocellHandler_Auto1.uasset
+[2017.01.30-18.43.42:531][931]LogFileHelpers: Auto-saving content packages took 0.022
+[2017.01.30-18.44.38:429][276]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.01.30-18.44.46:434][183]LogSavePackage: Save=16.54ms
+[2017.01.30-18.44.46:434][183]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoomACE8397942BFA0A0D8DA0AB93835934F.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap'
+[2017.01.30-18.44.46:436][183]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap
+[2017.01.30-18.44.46:453][183]LogFileHelpers: Saving map 'developmentRoom' took 0.094
+[2017.01.30-18.44.46:476][183]LogSavePackage: Save=17.15ms
+[2017.01.30-18.44.46:476][183]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellHandler5546BE7C4FE47CBB5FC2AB8415F0A771.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/protocellHandler.uasset'
+[2017.01.30-18.44.46:478][183]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/actorScripts/protocellHandler.uasset
+[2017.01.30-18.44.48:276][385]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.01.30-18.44.48:606][386]Cmd: QUIT_EDITOR
+[2017.01.30-18.44.49:599][386]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.30-18.44.49:622][386]LogExit: Preparing to exit.
+[2017.01.30-18.44.50:083][386]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
+[2017.01.30-18.44.50:112][386]LogExit: Editor shut down
+[2017.01.30-18.44.50:112][386]LogExit: Transaction tracking system shut down
+[2017.01.30-18.44.50:206][386]LogObj: Freed 0b from 0 cluster array pools.
+[2017.01.30-18.44.50:206][386]LogExit: Object subsystem successfully closed.
+[2017.01.30-18.44.50:217][386]LogD3D11RHI: Shutdown
+[2017.01.30-18.44.50:217][386]LogD3D11RHI: CleanupD3DDevice
+[2017.01.30-18.44.50:285][386]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.01.30-18.44.50:291][386]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.01.30-18.44.50:291][386]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F0D5FE8-42D2-3B86-906F-85A8E6ED8824%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=79261e63407afad88666eeac45b97bac%7C59c513c77e104fb391b6ddd67aba2485%7Cccfefd32-51bd-4421-aa1f-7f30b92f3991&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (245)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module BlueprintGraph (244)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (243)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (242)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.01.30-18.44.50:324][386]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.01.30-18.44.50:324][386]LogDirectoryWatcher: A directory notification for 'B:/Programs/Epic/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.01.30-18.44.50:325][386]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' was aborted.
+[2017.01.30-18.44.50:325][386]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' was aborted.
+[2017.01.30-18.44.50:325][386]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' was aborted.
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.01.30-18.44.50:325][386]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.01.30-18.44.50:326][386]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.01.30-18.44.50:950][386]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.01.30-18.44.50:951][386]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.01.30-18.44.50:951][386]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.01.30-18.44.50:951][386]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.01.30-18.44.50:951][386]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.01.30-18.44.50:951][386]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.01.30-18.44.50:993][386]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.01.30-18.44.50:998][386]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.01.30-18.44.50:998][386]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.01.30-18.44.50:999][386]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.01.30-18.44.51:000][386]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.01.30-18.44.51:057][386]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.01.30-18.44.51:058][386]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.01.30-18.44.51:059][386]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.01.30-18.44.51:060][386]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.01.30-18.44.51:060][386]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.01.30-18.44.51:160][386]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.01.30-18.44.51:261][386]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.01.30-18.44.51:263][386]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.01.30-18.44.51:263][386]LogDirectoryWatcher: A directory notification for '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
+[2017.01.30-18.44.51:263][386]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.01.30-18.44.51:263][386]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.01.30-18.44.51:441][386]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.01.30-18.44.51:498][386]LogDerivedDataCache: Shutdown
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.01.30-18.44.51:498][386]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.01.30-18.44.51:499][386]LogOnline:Display: Unloading online subsystem: NULL
+[2017.01.30-18.44.51:499][386]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.01.30-18.44.51:500][386]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.01.30-18.44.51:502][386]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.01.30-18.44.51:504][386]LogExit: Exiting.
+[2017.01.30-18.44.51:506][386]Log file closed, 01/30/17 21:44:51
