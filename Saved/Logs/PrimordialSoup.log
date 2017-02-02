@@ -1,105 +1,105 @@
-﻿Log file open, 01/30/17 21:45:47
+﻿Log file open, 02/02/17 20:23:58
 LogInit:Display: Running engine for game: PrimordialSoup
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-707609955) SRandInit(-707609955).
-LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.072114
-LogPluginManager: Loaded Plugin Paper2D, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
-LogPluginManager: Loaded Plugin LightPropagationVolume, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
-LogPluginManager: Loaded Plugin BlankPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
-LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin GitSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
-LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin NullSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin OneSkyLocalizationService, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
-LogPluginManager: Loaded Plugin PerforceSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
-LogPluginManager: Loaded Plugin SubversionSourceControl, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
-LogPluginManager: Loaded Plugin UObjectPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
-LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
-LogPluginManager: Loaded Plugin AudioCapture, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
-LogPluginManager: Loaded Plugin EpicSurvey, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
-LogPluginManager: Loaded Plugin MacGraphicsSwitching, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
-LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
-LogPluginManager: Loaded Plugin PluginBrowser, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
-LogPluginManager: Loaded Plugin SpeedTreeImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
-LogPluginManager: Loaded Plugin SuperSearchEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
-LogPluginManager: Loaded Plugin AlembicImporter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
-LogPluginManager: Loaded Plugin BlueprintStats, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
-LogPluginManager: Loaded Plugin CharacterAI, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
-LogPluginManager: Loaded Plugin CodeEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
-LogPluginManager: Loaded Plugin CodeView, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
-LogPluginManager: Loaded Plugin HTML5Networking, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
-LogPluginManager: Loaded Plugin OSVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
-LogPluginManager: Loaded Plugin Phya, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
-LogPluginManager: Loaded Plugin SignificanceManager, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
-LogPluginManager: Loaded Plugin SimpleHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
-LogPluginManager: Loaded Plugin StereoPanorama, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
-LogPluginManager: Loaded Plugin StructBox, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
-LogPluginManager: Loaded Plugin AndroidMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
-LogPluginManager: Loaded Plugin AvfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
-LogPluginManager: Loaded Plugin MediaPlayerEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
-LogPluginManager: Loaded Plugin WmfMedia, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
-LogPluginManager: Loaded Plugin MessagingDebugger, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
-LogPluginManager: Loaded Plugin TcpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
-LogPluginManager: Loaded Plugin UdpMessaging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
-LogPluginManager: Loaded Plugin LevelSequenceEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
-LogPluginManager: Loaded Plugin MatineeToLevelSequence, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
-LogPluginManager: Loaded Plugin NetcodeUnitTest, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
-LogPluginManager: Loaded Plugin NUTUnrealEngine4, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
-LogPluginManager: Loaded Plugin OnlineFramework, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystem, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemNull, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
-LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
-LogPluginManager: Loaded Plugin IOSTapJoy, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
-LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
-LogPluginManager: Loaded Plugin AnalyticsMulticast, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
-LogPluginManager: Loaded Plugin Apsalar, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
-LogPluginManager: Loaded Plugin FileLogging, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
-LogPluginManager: Loaded Plugin Flurry, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
-LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin AndroidMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin AppleMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ArchVisCharacter, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
-LogPluginManager: Loaded Plugin CableComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
-LogPluginManager: Loaded Plugin CustomMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
-LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin GearVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
-LogPluginManager: Loaded Plugin GoogleVRController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
-LogPluginManager: Loaded Plugin GoogleVRHMD, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
-LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin LeapMotion, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
-LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin MIDIDevice, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
-LogPluginManager: Loaded Plugin MobilePatchingUtils, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
-LogPluginManager: Loaded Plugin Ansel, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
-LogPluginManager: Loaded Plugin OculusAudio, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
-LogPluginManager: Loaded Plugin OculusInput, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
-LogPluginManager: Loaded Plugin OculusLibrary, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
-LogPluginManager: Loaded Plugin OculusRift, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
-LogPluginManager: Loaded Plugin Oodle, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
-LogPluginManager: Loaded Plugin ProceduralMeshComponent, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
-LogPluginManager: Loaded Plugin SoundMod, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
-LogPluginManager: Loaded Plugin SoundVisualizations, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
-LogPluginManager: Loaded Plugin SteamController, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
-LogPluginManager: Loaded Plugin SteamVR, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
-LogPluginManager: Loaded Plugin WebBrowserWidget, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
-LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
-LogPluginManager: Loaded Plugin WindowsMoviePlayer, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
-LogPluginManager: Loaded Plugin ScriptPlugin, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
-LogPluginManager: Loaded Plugin SlateRemote, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
-LogPluginManager: Loaded Plugin EditorTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
-LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
-LogPluginManager: Loaded Plugin FunctionalTestingEditor, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
-LogPluginManager: Loaded Plugin RuntimeTests, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
-LogPluginManager: Loaded Plugin ScreenshotTools, From B:/Programs/Epic/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit:Display: RandInit(269586142) SRandInit(269586142).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.062823
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files/Epic Games/UE_4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -139,1100 +139,110 @@ LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.14
 LogInit: Command line:  
-LogInit: Base directory: B:/Programs/Epic/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.14/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.01.30-18.45.47:983][  0]LogInit: Selected Device Profile: [Windows]
-[2017.01.30-18.45.47:983][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.01.30-18.45.47:991][  0]LogInit: Computer: LAKER-PC
-[2017.01.30-18.45.47:991][  0]LogInit: User: laker
-[2017.01.30-18.45.47:991][  0]LogInit: CPU Page size=65536, Cores=4
-[2017.01.30-18.45.47:991][  0]LogInit: High frequency timer resolution =3.410076 MHz
-[2017.01.30-18.45.47:991][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.01.30-18.45.47:991][  0]LogMemory: Platform Memory Stats for Windows
-[2017.01.30-18.45.47:991][  0]LogMemory: Process Physical Memory: 264.59 MB used, 264.59 MB peak
-[2017.01.30-18.45.47:991][  0]LogMemory: Process Virtual Memory: 262.86 MB used, 262.86 MB peak
-[2017.01.30-18.45.47:991][  0]LogMemory: Physical Memory: 4975.92 MB used,  3083.51 MB free, 8059.43 MB total
-[2017.01.30-18.45.47:991][  0]LogMemory: Virtual Memory: 676.50 MB used,  3083.51 MB free, 134217728.00 MB total
-[2017.01.30-18.45.48:017][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
-[2017.01.30-18.45.48:611][  0]LogD3D11RHI: D3D11 adapters:
-[2017.01.30-18.45.49:371][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
-[2017.01.30-18.45.49:371][  0]LogD3D11RHI:       4062/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2017.01.30-18.45.49:379][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
-[2017.01.30-18.45.49:379][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.01.30-18.45.49:380][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.01.30-18.45.49:380][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.01.30-18.45.49:380][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.01.30-18.45.49:384][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.01.30-18.45.49:384][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
-[2017.01.30-18.45.49:384][  0]LogWindows: EnumDisplayDevices:
-[2017.01.30-18.45.49:384][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
-[2017.01.30-18.45.49:384][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
-[2017.01.30-18.45.49:385][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2017.01.30-18.45.49:385][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
-[2017.01.30-18.45.49:385][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.01.30-18.45.49:385][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.01.30-18.45.49:385][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
-[2017.01.30-18.45.49:385][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2017.01.30-18.45.49:385][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
-[2017.01.30-18.45.49:385][  0]LogD3D11RHI:   Driver Version: 378.49 (internal:21.21.13.7849, unified:378.49)
-[2017.01.30-18.45.49:385][  0]LogD3D11RHI:      Driver Date: 1-20-2017
-[2017.01.30-18.45.49:385][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2017.01.30-18.45.50:130][  0]LogD3D11RHI: Async texture creation enabled
-[2017.01.30-18.45.50:162][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.01.30-18.45.50:163][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Intermediate/Shaders/WorkingDirectory/11496/).
-[2017.01.30-18.45.50:163][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/laker/AppData/Local/Temp/UnrealShaderWorkingDir/75D0A17A4F4F51739443F886EC7AE340/'.
-[2017.01.30-18.45.50:163][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.01.30-18.45.51:190][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.01.30-18.45.51:230][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.01.30-18.45.51:270][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.01.30-18.45.51:309][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.01.30-18.45.51:349][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.01.30-18.45.51:389][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.01.30-18.45.51:429][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.01.30-18.45.51:468][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.01.30-18.45.51:499][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.01.30-18.45.51:538][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.01.30-18.45.51:576][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.01.30-18.45.51:615][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.01.30-18.45.51:654][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.01.30-18.45.51:694][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.01.30-18.45.51:732][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.01.30-18.45.51:813][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.01.30-18.45.51:813][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.01.30-18.45.51:838][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.01.30-18.45.51:903][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.01.30-18.45.51:928][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.01.30-18.45.51:966][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.01.30-18.45.52:005][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.01.30-18.45.52:044][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.01.30-18.45.52:084][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.01.30-18.45.52:084][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.01.30-18.45.52:334][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache: Loaded boot cache 0.06s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.01.30-18.45.52:390][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.01.30-18.45.52:405][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.01.30-18.45.52:417][  0]LogDerivedDataCache: Using Local data cache path C:/Users/laker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.01.30-18.45.52:591][  0]LogInit: Selected Device Profile: [Windows]
-[2017.01.30-18.45.52:594][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.01.30-18.45.52:761][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.01.30-18.45.52:790][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.01.30-18.45.52:821][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.01.30-18.45.52:821][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.01.30-18.45.52:821][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.01.30-18.45.53:272][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: primordialsoup, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1510063732
-[2017.01.30-18.45.53:319][  0]LogAssetRegistry: FAssetRegistry took 0.0212 seconds to start up
-[2017.01.30-18.45.53:344][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.011794 seconds
-[2017.01.30-18.45.53:350][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
-[2017.01.30-18.45.53:350][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
-[2017.01.30-18.45.53:350][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.01.30-18.45.53:388][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.01.30-18.45.53:874][  0]LogSlate: Using Freetype 2.6.0
-[2017.01.30-18.45.53:874][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.01.30-18.45.53:874][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.01.30-18.45.54:563][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.01.30-18.45.54:592][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.01.30-18.45.54:822][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.01.30-18.45.55:107][  0]SourceControl: Info Source control is disabled
-[2017.01.30-18.45.55:183][  0]SourceControl: Info Source control is disabled
-[2017.01.30-18.45.55:217][  0]SourceControl: Info Source control is disabled
-[2017.01.30-18.45.55:249][  0]SourceControl: Info Source control is disabled
-[2017.01.30-18.45.55:462][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
-[2017.01.30-18.45.55:462][  0]LogLinker:Warning: Can't find file '/Game/PrimordialSoup/TopDownOverview'
-[2017.01.30-18.45.55:462][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/PrimordialSoup/TopDownOverview.TopDownOverview_C'
-[2017.01.30-18.45.56:121][  0]LogEngine: Initializing Engine...
-[2017.01.30-18.45.56:121][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.01.30-18.45.56:314][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.01.30-18.45.56:328][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.45.56:344][  0]LogInit: FAudioDevice initialized.
-[2017.01.30-18.45.56:371][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/laker/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.01.30-18.45.56:378][  0]LogInit: Texture streaming: Enabled
-[2017.01.30-18.45.56:503][  0]LogInit: Transaction tracking system initialized
-[2017.01.30-18.45.56:733][  0]BlueprintLog: New page: Editor Load
-[2017.01.30-18.45.57:307][  0]LocalizationService: Info Localization service is disabled
-[2017.01.30-18.45.57:740][  0]LogConsoleResponse:Display: 
-[2017.01.30-18.45.57:861][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.01.30-18.45.57:861][  0]LogCook:Display: Mobile HDR setting 1
-[2017.01.30-18.45.58:115][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' took 0.01s
-[2017.01.30-18.45.58:495][  0]SourceControl: Info Source control is disabled
-[2017.01.30-18.45.58:495][  0]Cmd: MAP LOAD FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.01.30-18.45.58:496][  0]LightingResults: New page: Lighting Build
-[2017.01.30-18.45.58:522][  0]MapCheck: New page: Map Check
-[2017.01.30-18.45.58:522][  0]LightingResults: New page: Lighting Build
-[2017.01.30-18.45.58:734][  0]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.45.58:740][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.01.30-18.45.58:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.01.30-18.45.58:776][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.116ms to complete.
-[2017.01.30-18.45.58:776][  0]LogFileHelpers: Loading map 'developmentRoom' took 0.281
-[2017.01.30-18.45.58:846][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.01.30-18.45.58:910][  0]LogCollectionManager: Loaded 0 collections in 0.000797 seconds
-[2017.01.30-18.45.58:977][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' took 0.01s
-[2017.01.30-18.45.58:977][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' took 0.01s
-[2017.01.30-18.45.58:977][  0]LogFileCache: Scanning file cache for directory 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' took 0.01s
-[2017.01.30-18.45.58:977][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2017.01.30-18.45.58:986][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2190 classes and 428 folders.
-[2017.01.30-18.45.59:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.01.30-18.45.59:013][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.01.30-18.45.59:014][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
-[2017.01.30-18.45.59:054][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2017.01.30-18.45.59:093][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2017.01.30-18.45.59:130][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2017.01.30-18.45.59:158][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.01.30-18.45.59:165][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.01.30-18.45.59:216][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
-[2017.01.30-18.45.59:217][  0]LogLoad: (Engine Initialization) Total time: 12.37 seconds
-[2017.01.30-18.45.59:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.07 seconds
-[2017.01.30-18.45.59:217][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.01.30-18.45.59:217][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.01.30-18.45.59:226][  0]LogOcInput: OculusInput pre-init called
-[2017.01.30-18.45.59:245][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.01.30-18.45.59:395][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
-[2017.01.30-18.45.59:457][  1]LogAssetRegistry: Asset discovery search completed in 6.1601 seconds
-[2017.01.30-18.45.59:458][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.01.30-18.45.59:458][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
-[2017.01.30-18.46.21:846][615]MapCheck: New page: Map Check
-[2017.01.30-18.46.21:872][615]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-18.46.21:880][615]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-18.46.22:015][615]LightingResults: New page: Lighting Build - Jan 31, 2017, 12:46:22 AM
-[2017.01.30-18.46.22:044][615]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-18.46.22:102][615]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-18.46.22:110][615]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-18.46.22:621][615]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-18.46.22:621][615]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-18.46.24:840][615]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-18.46.24:983][615]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-18.46.24:983][615]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:46:24 AM
-[2017.01.30-18.46.25:018][615]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.256ms to complete.
-[2017.01.30-18.46.25:040][615]LogEditorBuildUtils: Build time 0:03
-[2017.01.30-18.46.26:537][704]Job is a success!
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2017.01.30-18.46.26:660][705]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2017.01.30-18.46.26:691][705]Lightmass on LAKER-PC: 779 ms total, 95 ms importing, 28 ms setup, 272 ms photons, 359 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 2.35 sec total, 459 ms processing.
-[2017.01.30-18.46.26:696][705]LogStaticLightingSystem: Illumination: 4.66 sec (56 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-18.46.26:696][705]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-18.46.26:696][705]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-18.46.26:843][705]DumpUnbuiltLightIteractions
-[2017.01.30-18.46.26:843][705]Lights with unbuilt interactions: 0
-[2017.01.30-18.46.26:843][705]
-[2017.01.30-18.46.26:843][705]Primitives with unbuilt interactions: 0
-[2017.01.30-18.46.26:887][706]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-18.46.26:887][706]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:46:26 AM
-[2017.01.30-18.46.26:930][706]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 43.021ms to complete.
-[2017.01.30-18.46.30:797][164]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.46.30:807][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.46.30:807][164]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:46:30 AM)
-[2017.01.30-18.46.30:807][164]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.46.30:810][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
-[2017.01.30-18.46.30:811][164]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.46.30:812][164]LogPlayLevel: PIE: World Init took: (0.001198s)
-[2017.01.30-18.46.30:812][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.004903s)
-[2017.01.30-18.46.30:829][164]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.46.30:842][164]LogInit: FAudioDevice initialized.
-[2017.01.30-18.46.30:920][164]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.46.30:922][164]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.46.30
-[2017.01.30-18.46.30:923][164]LogWorld: Bringing up level for play took: 0.000995
-[2017.01.30-18.46.30:950][164]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
-[2017.01.30-18.46.30:951][164]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.606
-[2017.01.30-18.46.31:448][219]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:454][220]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:462][221]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:471][222]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:479][223]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:487][224]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:496][225]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:504][226]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:512][227]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.46.31:520][228]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.48.23:265][355]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
-[2017.01.30-18.48.48:923][390]MapCheck: New page: Map Check
-[2017.01.30-18.48.48:937][390]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-18.48.48:937][390]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-18.48.48:947][390]LightingResults: New page: Lighting Build - Jan 31, 2017, 12:48:48 AM
-[2017.01.30-18.48.48:954][390]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-18.48.48:955][390]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-18.48.48:955][390]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-18.48.48:956][390]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-18.48.48:956][390]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-18.48.53:472][390]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-18.48.53:587][390]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-18.48.53:587][390]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:48:53 AM
-[2017.01.30-18.48.53:623][390]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.733ms to complete.
-[2017.01.30-18.48.53:645][390]LogEditorBuildUtils: Build time 0:04
-[2017.01.30-18.48.55:037][475]Job is a success!
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
-[2017.01.30-18.48.55:137][477]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
-[2017.01.30-18.48.55:155][477]Lightmass on LAKER-PC: 739 ms total, 82 ms importing, 29 ms setup, 274 ms photons, 337 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 2.20 sec total, 455 ms processing.
-[2017.01.30-18.48.55:161][477]LogStaticLightingSystem: Illumination: 6.19 sec (44 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-18.48.55:161][477]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-18.48.55:161][477]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-18.48.55:475][477]DumpUnbuiltLightIteractions
-[2017.01.30-18.48.55:475][477]Lights with unbuilt interactions: 0
-[2017.01.30-18.48.55:475][477]
-[2017.01.30-18.48.55:475][477]Primitives with unbuilt interactions: 0
-[2017.01.30-18.48.55:514][478]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-18.48.55:515][478]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:48:55 AM
-[2017.01.30-18.48.55:551][478]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.222ms to complete.
-[2017.01.30-18.49.12:966][550]MapCheck: New page: Map Check
-[2017.01.30-18.49.12:986][550]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-18.49.12:986][550]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-18.49.12:998][550]LightingResults: New page: Lighting Build - Jan 31, 2017, 12:49:12 AM
-[2017.01.30-18.49.13:004][550]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-18.49.13:008][550]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-18.49.13:008][550]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-18.49.13:009][550]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-18.49.13:009][550]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-18.49.17:517][550]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-18.49.17:601][550]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-18.49.17:601][550]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:49:17 AM
-[2017.01.30-18.49.17:636][550]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 34.997ms to complete.
-[2017.01.30-18.49.17:658][550]LogEditorBuildUtils: Build time 0:04
-[2017.01.30-18.49.19:118][634]Job is a success!
-[2017.01.30-18.49.19:139][635]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
-ActiveCount : 1
-SessionName : 
-Reason      : Applying Lighting
-
-Purging the undo buffer...
-
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2017.01.30-18.49.19:226][635]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2017.01.30-18.49.19:246][635]Lightmass on LAKER-PC: 767 ms total, 105 ms importing, 30 ms setup, 273 ms photons, 338 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 2.21 sec total, 447 ms processing.
-[2017.01.30-18.49.19:251][635]LogStaticLightingSystem: Illumination: 6.23 sec (38 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-18.49.19:251][635]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-18.49.19:251][635]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-18.49.19:520][635]DumpUnbuiltLightIteractions
-[2017.01.30-18.49.19:520][635]Lights with unbuilt interactions: 0
-[2017.01.30-18.49.19:520][635]
-[2017.01.30-18.49.19:520][635]Primitives with unbuilt interactions: 0
-[2017.01.30-18.49.19:561][636]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-18.49.19:561][636]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:49:19 AM
-[2017.01.30-18.49.19:597][636]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.316ms to complete.
-[2017.01.30-18.49.30:056][841]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.49.30:066][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.49.30:066][841]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:49:30 AM)
-[2017.01.30-18.49.30:066][841]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.49.30:069][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
-[2017.01.30-18.49.30:070][841]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.49.30:070][841]LogPlayLevel: PIE: World Init took: (0.000922s)
-[2017.01.30-18.49.30:070][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003683s)
-[2017.01.30-18.49.30:086][841]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.49.30:100][841]LogInit: FAudioDevice initialized.
-[2017.01.30-18.49.30:129][841]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.49.30:131][841]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.49.30
-[2017.01.30-18.49.30:132][841]LogWorld: Bringing up level for play took: 0.001409
-[2017.01.30-18.49.30:133][841]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom -0.215
-[2017.01.30-18.49.38:312][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2017.01.30-18.49.46:741][789]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.49.46:751][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.49.46:751][789]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:49:46 AM)
-[2017.01.30-18.49.46:751][789]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.49.46:753][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002461s)
-[2017.01.30-18.49.46:754][789]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.49.46:754][789]LogPlayLevel: PIE: World Init took: (0.000854s)
-[2017.01.30-18.49.46:754][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003520s)
-[2017.01.30-18.49.46:773][789]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.49.46:785][789]LogInit: FAudioDevice initialized.
-[2017.01.30-18.49.46:813][789]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.49.46:815][789]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.49.46
-[2017.01.30-18.49.46:816][789]LogWorld: Bringing up level for play took: 0.000946
-[2017.01.30-18.49.46:816][789]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.468
-[2017.01.30-18.49.47:240][837]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:247][838]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:255][839]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:263][840]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:272][841]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:280][842]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:288][843]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:297][844]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.47:305][845]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.56:632][938]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.49.56:642][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.49.56:642][938]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:49:56 AM)
-[2017.01.30-18.49.56:642][938]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.49.56:644][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002429s)
-[2017.01.30-18.49.56:645][938]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.49.56:645][938]LogPlayLevel: PIE: World Init took: (0.000893s)
-[2017.01.30-18.49.56:646][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003528s)
-[2017.01.30-18.49.56:662][938]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.49.56:674][938]LogInit: FAudioDevice initialized.
-[2017.01.30-18.49.56:704][938]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.49.56:706][938]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.49.56
-[2017.01.30-18.49.56:731][938]LogWorld: Bringing up level for play took: 0.025507
-[2017.01.30-18.49.56:731][938]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.383
-[2017.01.30-18.49.57:173][988]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:180][989]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:189][990]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:197][991]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:205][992]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:214][993]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:222][994]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:230][995]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.49.57:239][996]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.50.06:127][ 30]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.50.06:137][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.50.06:137][ 30]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:50:06 AM)
-[2017.01.30-18.50.06:137][ 30]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.50.06:140][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002276s)
-[2017.01.30-18.50.06:140][ 30]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.50.06:140][ 30]LogPlayLevel: PIE: World Init took: (0.000768s)
-[2017.01.30-18.50.06:141][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003374s)
-[2017.01.30-18.50.06:160][ 30]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.50.06:173][ 30]LogInit: FAudioDevice initialized.
-[2017.01.30-18.50.06:204][ 30]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.50.06:206][ 30]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.50.06
-[2017.01.30-18.50.06:207][ 30]LogWorld: Bringing up level for play took: 0.001036
-[2017.01.30-18.50.06:207][ 30]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom -0.141
-[2017.01.30-18.50.21:331][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
-[2017.01.30-18.50.23:248][919]LogRenderer: Reallocating scene render targets to support 1208x712 NumSamples 1 (Frame:24110).
-[2017.01.30-18.51.05:196][879]BlueprintLog: New page: Compile protocellChar
-[2017.01.30-18.51.05:831][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/actors/protocellChar" FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset" SILENT=true
-[2017.01.30-18.51.05:854][935]LogSavePackage: Save=19.43ms
-[2017.01.30-18.51.05:854][935]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellCharBE5FC6A9404507A4B50D79BA42E60A22.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset'
-[2017.01.30-18.51.05:856][935]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset
-[2017.01.30-18.51.11:249][564]LogSavePackage: Save=20.49ms
-[2017.01.30-18.51.11:249][564]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoomDB285A9C49299BCED4AD1C8C3DDE756E.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap'
-[2017.01.30-18.51.11:251][564]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap
-[2017.01.30-18.51.11:302][564]LogSavePackage: Save=28.83ms
-[2017.01.30-18.51.11:302][564]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoom_BuiltData87A116504FD0C893A48808B657526EEE.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset'
-[2017.01.30-18.51.11:304][564]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset
-[2017.01.30-18.51.12:330][685]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.51.12:342][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.51.12:342][685]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:51:12 AM)
-[2017.01.30-18.51.12:342][685]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.51.12:344][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002178s)
-[2017.01.30-18.51.12:345][685]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.51.12:345][685]LogPlayLevel: PIE: World Init took: (0.000953s)
-[2017.01.30-18.51.12:346][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003374s)
-[2017.01.30-18.51.12:369][685]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.51.12:382][685]LogInit: FAudioDevice initialized.
-[2017.01.30-18.51.12:413][685]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.51.12:415][685]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.51.12
-[2017.01.30-18.51.12:415][685]LogWorld: Bringing up level for play took: 0.001215
-[2017.01.30-18.51.12:416][685]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.066
-[2017.01.30-18.51.12:825][731]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:831][732]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:839][733]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:847][734]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:856][735]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:864][736]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:872][737]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:880][738]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:889][739]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:897][740]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.12:905][741]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.51.20:451][618]LogEditorViewport: Clicking on Actor (LMB): protocellChar_C (protocellChar)
-[2017.01.30-18.51.21:236][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2017.01.30-18.51.30:827][825]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.51.30:837][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.51.30:837][825]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:51:30 AM)
-[2017.01.30-18.51.30:837][825]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.51.30:839][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002325s)
-[2017.01.30-18.51.30:840][825]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.51.30:840][825]LogPlayLevel: PIE: World Init took: (0.000863s)
-[2017.01.30-18.51.30:840][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003476s)
-[2017.01.30-18.51.30:862][825]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.51.30:875][825]LogInit: FAudioDevice initialized.
-[2017.01.30-18.51.30:908][825]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.51.30:910][825]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.51.30
-[2017.01.30-18.51.30:910][825]LogWorld: Bringing up level for play took: 0.001290
-[2017.01.30-18.51.30:911][825]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.561
-[2017.01.30-18.51.39:117][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2017.01.30-18.52.10:500][500]MapCheck: New page: Map Check
-[2017.01.30-18.52.10:514][500]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-18.52.10:514][500]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-18.52.10:525][500]LightingResults: New page: Lighting Build - Jan 31, 2017, 12:52:10 AM
-[2017.01.30-18.52.10:531][500]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-18.52.10:533][500]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-18.52.10:533][500]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-18.52.10:534][500]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-18.52.10:534][500]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-18.52.15:041][500]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-18.52.15:156][500]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-18.52.15:156][500]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:52:15 AM
-[2017.01.30-18.52.15:197][500]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.286ms to complete.
-[2017.01.30-18.52.15:219][500]LogEditorBuildUtils: Build time 0:04
-[2017.01.30-18.52.16:643][585]Job is a success!
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
-[2017.01.30-18.52.16:740][587]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
-[2017.01.30-18.52.16:764][587]Lightmass on LAKER-PC: 747 ms total, 93 ms importing, 33 ms setup, 271 ms photons, 329 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 2.15 sec total, 453 ms processing.
-[2017.01.30-18.52.16:770][587]LogStaticLightingSystem: Illumination: 6.22 sec (42 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-18.52.16:770][587]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-18.52.16:770][587]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-18.52.17:043][587]DumpUnbuiltLightIteractions
-[2017.01.30-18.52.17:043][587]Lights with unbuilt interactions: 0
-[2017.01.30-18.52.17:043][587]
-[2017.01.30-18.52.17:043][587]Primitives with unbuilt interactions: 0
-[2017.01.30-18.52.17:083][588]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-18.52.17:083][588]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:52:17 AM
-[2017.01.30-18.52.17:123][588]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 39.723ms to complete.
-[2017.01.30-18.52.19:051][816]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.52.19:061][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.52.19:061][816]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:52:19 AM)
-[2017.01.30-18.52.19:061][816]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.52.19:064][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002703s)
-[2017.01.30-18.52.19:065][816]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.52.19:065][816]LogPlayLevel: PIE: World Init took: (0.000997s)
-[2017.01.30-18.52.19:065][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003916s)
-[2017.01.30-18.52.19:087][816]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.52.19:099][816]LogInit: FAudioDevice initialized.
-[2017.01.30-18.52.19:133][816]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.52.19:135][816]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.52.19
-[2017.01.30-18.52.19:135][816]LogWorld: Bringing up level for play took: 0.001169
-[2017.01.30-18.52.19:136][816]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.785
-[2017.01.30-18.52.19:560][864]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:567][865]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:575][866]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:583][867]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:591][868]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:600][869]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:608][870]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:616][871]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:625][872]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:633][873]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.52.19:641][874]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.53.24:002][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
-[2017.01.30-18.53.24:005][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 4 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.53.24:005][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.53.24:005][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.53.24:009][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning InputAction Event references unknown Action 'ResetVR' for  K2Node_InputAction_0
-[2017.01.30-18.53.24:012][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 1 Warning(s) [in 4 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.53.24:012][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.53.24:012][768]LogBlueprint:Warning: [Compiler TopDownCharacter] Warning [0457.15] Compile of TopDownCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/Assets/scripts/Blueprints/TopDownCharacter.TopDownCharacter)
-[2017.01.30-18.54.17:793][486]BlueprintLog: New page: Compile protocellChar
-[2017.01.30-18.54.27:790][629]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.54.27:800][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.54.27:800][629]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:54:27 AM)
-[2017.01.30-18.54.27:801][629]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.54.27:803][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002257s)
-[2017.01.30-18.54.27:803][629]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.54.27:804][629]LogPlayLevel: PIE: World Init took: (0.000755s)
-[2017.01.30-18.54.27:804][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003242s)
-[2017.01.30-18.54.27:827][629]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.54.27:840][629]LogInit: FAudioDevice initialized.
-[2017.01.30-18.54.27:870][629]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.54.27:873][629]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.54.27
-[2017.01.30-18.54.27:873][629]LogWorld: Bringing up level for play took: 0.001026
-[2017.01.30-18.54.27:874][629]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom -0.48
-[2017.01.30-18.54.28:340][682]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:346][683]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:355][684]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:363][685]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:371][686]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:380][687]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:388][688]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:396][689]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:404][690]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:413][691]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.54.28:421][692]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.28:774][325]BlueprintLog: New page: Compile protocellChar
-[2017.01.30-18.55.29:712][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/actors/protocellChar" FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset" SILENT=true
-[2017.01.30-18.55.29:734][374]LogSavePackage: Save=19.55ms
-[2017.01.30-18.55.29:734][374]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellChar9751672747DD48162445AABC3C4291AA.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset'
-[2017.01.30-18.55.29:736][374]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocellChar.uasset
-[2017.01.30-18.55.40:213][310]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.55.40:224][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.55.40:224][310]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:55:40 AM)
-[2017.01.30-18.55.40:224][310]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.55.40:227][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
-[2017.01.30-18.55.40:227][310]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.55.40:228][310]LogPlayLevel: PIE: World Init took: (0.000867s)
-[2017.01.30-18.55.40:228][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.004012s)
-[2017.01.30-18.55.40:251][310]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.55.40:266][310]LogInit: FAudioDevice initialized.
-[2017.01.30-18.55.40:299][310]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.55.40:301][310]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.55.40
-[2017.01.30-18.55.40:301][310]LogWorld: Bringing up level for play took: 0.001224
-[2017.01.30-18.55.40:302][310]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom -0.053
-[2017.01.30-18.55.40:829][370]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:834][371]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:843][372]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:851][373]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:859][374]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:868][375]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:876][376]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:884][377]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:893][378]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:901][379]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:909][380]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:918][381]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.55.40:926][382]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:431][638]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.56.08:441][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.56.08:441][638]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:56:08 AM)
-[2017.01.30-18.56.08:441][638]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.56.08:444][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002448s)
-[2017.01.30-18.56.08:444][638]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.56.08:444][638]LogPlayLevel: PIE: World Init took: (0.000696s)
-[2017.01.30-18.56.08:445][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003405s)
-[2017.01.30-18.56.08:467][638]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.56.08:481][638]LogInit: FAudioDevice initialized.
-[2017.01.30-18.56.08:514][638]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.56.08:516][638]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.56.08
-[2017.01.30-18.56.08:516][638]LogWorld: Bringing up level for play took: 0.001257
-[2017.01.30-18.56.08:517][638]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.163
-[2017.01.30-18.56.08:742][662]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:749][663]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:757][664]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:765][665]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:774][666]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:782][667]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:790][668]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:799][669]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:807][670]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:815][671]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:824][672]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.08:832][673]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.56.41:932][554]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2017.01.30-18.56.59:707][632]MapCheck: New page: Map Check
-[2017.01.30-18.56.59:720][632]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-18.56.59:720][632]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-18.56.59:732][632]LightingResults: New page: Lighting Build - Jan 31, 2017, 12:56:59 AM
-[2017.01.30-18.56.59:740][632]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-18.56.59:742][632]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-18.56.59:742][632]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-18.56.59:743][632]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-18.56.59:743][632]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-18.57.04:250][632]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-18.57.04:377][632]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-18.57.04:377][632]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:57:04 AM
-[2017.01.30-18.57.04:416][632]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 39.629ms to complete.
-[2017.01.30-18.57.04:439][632]LogEditorBuildUtils: Build time 0:04
-[2017.01.30-18.57.04:968][635]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-18.57.04:981][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-18.57.04:981][635]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 12:57:04 AM)
-[2017.01.30-18.57.04:981][635]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-18.57.04:985][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003259s)
-[2017.01.30-18.57.04:985][635]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-18.57.04:986][635]LogPlayLevel: PIE: World Init took: (0.000807s)
-[2017.01.30-18.57.04:986][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.004344s)
-[2017.01.30-18.57.05:017][635]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-18.57.05:032][635]LogInit: FAudioDevice initialized.
-[2017.01.30-18.57.05:065][635]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-18.57.05:067][635]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-21.57.05
-[2017.01.30-18.57.05:067][635]LogWorld: Bringing up level for play took: 0.001276
-[2017.01.30-18.57.05:068][635]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.712
-[2017.01.30-18.57.05:818][703]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:834][704]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:844][705]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:855][706]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:864][707]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:875][708]Job is a success!
-[2017.01.30-18.57.05:876][708]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.05:886][709]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:921][188]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:928][189]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:937][190]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:945][191]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:953][192]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:961][193]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:970][194]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.09:978][195]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:045][203]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:053][204]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:061][205]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:070][206]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:078][207]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:086][208]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:095][209]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:103][210]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:111][211]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:120][212]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:179][219]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:186][220]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:195][221]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:204][222]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:212][223]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:220][224]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:228][225]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:237][226]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:245][227]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:254][228]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.10:262][229]PIE:Warning: Warning SimpleMove failed for protocellHandler_C_0: movement not allowed
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
-[2017.01.30-18.57.22:741][634]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
-[2017.01.30-18.57.22:761][634]Lightmass on LAKER-PC: 17.5 sec total, 92 ms importing, 30 ms setup, 274 ms photons, 17.0 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 1:59 min total, 429 ms processing.
-[2017.01.30-18.57.22:765][634]LogStaticLightingSystem: Illumination: 6.23 sec (42 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-18.57.22:765][634]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-18.57.22:765][634]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-18.57.23:260][634]DumpUnbuiltLightIteractions
-[2017.01.30-18.57.23:260][634]Lights with unbuilt interactions: 0
-[2017.01.30-18.57.23:260][634]
-[2017.01.30-18.57.23:260][634]Primitives with unbuilt interactions: 0
-[2017.01.30-18.57.23:269][635]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-18.57.23:269][635]MapCheck: New page: developmentRoom - Jan 31, 2017, 12:57:23 AM
-[2017.01.30-18.57.23:310][635]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.891ms to complete.
-[2017.01.30-18.57.40:052][521]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2017.01.30-18.57.40:108][523]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PrimordialSoup
-
-[2017.01.30-18.57.40:108][523]LogTemp:Display: CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.30-18.57.40:108][523]LogTemp:Display: Initial Dir: B:\Programs\Epic\Epic Games\4.14
-
-[2017.01.30-18.57.40:108][523]LogTemp:Display: Env CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.30-18.57.40:109][523]LogTemp:Display: BranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries --- GameBranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\laker\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display: 
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
-
-[2017.01.30-18.57.40:140][525]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
-
-[2017.01.30-19.01.41:968][142]LogActorFactory: Actor Factory created Sphere
-[2017.01.30-19.02.07:817][631]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.03.52:695][571]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.03.53:919][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/actors/protocell" FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset" SILENT=true
-[2017.01.30-19.03.53:942][634]LogSavePackage: Save=21.15ms
-[2017.01.30-19.03.53:942][634]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellBC36160F461D904A668320903302BEFF.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset'
-[2017.01.30-19.03.53:944][634]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset
-[2017.01.30-19.04.52:678][ 27]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.04.58:418][394]LogBlueprint:Warning: [protocell] 'cursor' variable not found. Base class was probably changed.
-[2017.01.30-19.05.06:088][871]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.05.38:017][274]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2017.01.30-19.05.47:914][284]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2017.01.30-19.05.52:450][775]BlueprintLog: New page: Compile protocellGameMode
-[2017.01.30-19.05.52:998][814]LogSavePackage: Save=5.47ms
-[2017.01.30-19.05.52:998][814]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellGameMode72BB3E814235EF7B4E37429DA3A15AA6.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset'
-[2017.01.30-19.05.53:000][814]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/scripts/mapScript/protocellGameMode.uasset
-[2017.01.30-19.05.55:865][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2017.01.30-19.05.57:895][283]LogEditorViewport: Clicking on Actor (LMB): protocellChar_C (protocellChar)
-[2017.01.30-19.05.58:868][392]Cmd: DELETE
-[2017.01.30-19.05.58:868][392]Cmd: ACTOR DELETE
-[2017.01.30-19.05.58:875][392]LogEditorActor: Deleted Actor: protocellChar_C
-[2017.01.30-19.05.58:914][392]LogEditorActor: Deleted 1 Actors (0.039 secs)
-[2017.01.30-19.06.55:755][ 87]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.06.56:110][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/actors/protocell" FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset" SILENT=true
-[2017.01.30-19.06.56:139][ 98]LogSavePackage: Save=23.62ms
-[2017.01.30-19.06.56:139][ 98]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocell71DD47EA464631E2678C08A96BD36C3F.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset'
-[2017.01.30-19.06.56:141][ 98]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset
-[2017.01.30-19.07.28:706][895]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2017.01.30-19.07.33:106][380]MapCheck: New page: Map Check
-[2017.01.30-19.07.33:117][380]Cmd: MAP REBUILD ALLVISIBLE
-[2017.01.30-19.07.33:117][380]LogEditorServer: Rebuildmap Clear paths rebuilt
-[2017.01.30-19.07.33:128][380]LightingResults: New page: Lighting Build - Jan 31, 2017, 1:07:33 AM
-[2017.01.30-19.07.33:138][380]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
-[2017.01.30-19.07.33:140][380]LogSwarmInterface: [OpenConnection] Connecting to agent ...
-[2017.01.30-19.07.33:140][380]LogSwarmInterface: [TryOpenConnection] Testing the Agent
-[2017.01.30-19.07.33:141][380]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
-[2017.01.30-19.07.33:141][380]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11496
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
-[2017.01.30-19.07.37:649][380]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
-[2017.01.30-19.07.37:772][380]Cmd: MAP CHECK DONTDISPLAYDIALOG
-[2017.01.30-19.07.37:772][380]MapCheck: New page: developmentRoom - Jan 31, 2017, 1:07:37 AM
-[2017.01.30-19.07.37:812][380]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.129ms to complete.
-[2017.01.30-19.07.37:834][380]LogEditorBuildUtils: Build time 0:04
-[2017.01.30-19.07.38:486][390]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-19.07.38:504][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-19.07.38:504][390]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 1:07:38 AM)
-[2017.01.30-19.07.38:504][390]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-19.07.38:507][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
-[2017.01.30-19.07.38:508][390]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-19.07.38:508][390]LogPlayLevel: PIE: World Init took: (0.000556s)
-[2017.01.30-19.07.38:508][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003963s)
-[2017.01.30-19.07.38:559][390]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-19.07.38:573][390]LogInit: FAudioDevice initialized.
-[2017.01.30-19.07.38:604][390]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-19.07.38:620][390]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-22.07.38
-[2017.01.30-19.07.38:620][390]LogWorld: Bringing up level for play took: 0.014964
-[2017.01.30-19.07.38:621][390]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.26
-[2017.01.30-19.07.39:282][450]Job is a success!
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
-[2017.01.30-19.07.54:843][273]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
-[2017.01.30-19.07.54:860][273]Lightmass on LAKER-PC: 16.2 sec total, 103 ms importing, 34 ms setup, 272 ms photons, 15.7 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 1:50 min total, 430 ms processing.
-[2017.01.30-19.07.54:865][273]LogStaticLightingSystem: Illumination: 6.24 sec (41 ms encoding lightmaps, 0 ms encoding shadowmaps)
-[2017.01.30-19.07.54:865][273]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 4 textures
-[2017.01.30-19.07.54:865][273]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
-[2017.01.30-19.07.55:656][273]DumpUnbuiltLightIteractions
-[2017.01.30-19.07.55:656][273]Lights with unbuilt interactions: 0
-[2017.01.30-19.07.55:656][273]
-[2017.01.30-19.07.55:656][273]Primitives with unbuilt interactions: 0
-[2017.01.30-19.07.55:665][274]Cmd: MAP CHECK NOTIFYRESULTS
-[2017.01.30-19.07.55:665][274]MapCheck: New page: developmentRoom - Jan 31, 2017, 1:07:55 AM
-[2017.01.30-19.07.55:706][274]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.19ms to complete.
-[2017.01.30-19.07.55:708][274]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (StaticMeshActor)
-[2017.01.30-19.08.01:824][876]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2017.01.30-19.08.01:885][879]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PrimordialSoup
-
-[2017.01.30-19.08.01:885][879]LogTemp:Display: CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.30-19.08.01:885][879]LogTemp:Display: Initial Dir: B:\Programs\Epic\Epic Games\4.14
-
-[2017.01.30-19.08.01:885][879]LogTemp:Display: Env CWD: B:\Programs\Epic\Epic Games\4.14\Engine\Binaries\DotNet\IOS
-
-[2017.01.30-19.08.01:895][880]LogTemp:Display: BranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries --- GameBranchPath = LAKER-PC/B/Programs/Epic/Epic Games/4.14/Engine/Binaries
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\laker\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display: 
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
-
-[2017.01.30-19.08.01:907][881]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
-
-[2017.01.30-19.08.40:632][405]BlueprintLog: New page: Compile protocell
-[2017.01.30-19.08.41:067][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/actors/protocell" FILE="../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset" SILENT=true
-[2017.01.30-19.08.41:093][428]LogSavePackage: Save=23.78ms
-[2017.01.30-19.08.41:093][428]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/protocellD7FE852840915F9E4F703C91F4AF2A55.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset'
-[2017.01.30-19.08.41:095][428]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/actors/protocell.uasset
-[2017.01.30-19.08.47:194][ 15]LogTemp: Repeting last play command: Selected Viewport
-[2017.01.30-19.08.47:205][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.01.30-19.08.47:205][ 15]PIE: New page: PIE session: developmentRoom (Jan 31, 2017, 1:08:47 AM)
-[2017.01.30-19.08.47:205][ 15]LogPlayLevel: Creating play world package: /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom
-[2017.01.30-19.08.47:207][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002487s)
-[2017.01.30-19.08.47:208][ 15]LogAIModule: Creating AISystem for world developmentRoom
-[2017.01.30-19.08.47:208][ 15]LogPlayLevel: PIE: World Init took: (0.000734s)
-[2017.01.30-19.08.47:208][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/maps/developmentMaps/developmentRoom.developmentRoom to /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom (0.003435s)
-[2017.01.30-19.08.47:230][ 15]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2017.01.30-19.08.47:244][ 15]LogInit: FAudioDevice initialized.
-[2017.01.30-19.08.47:275][ 15]LogLoad: Game class is 'protocellGameMode_C'
-[2017.01.30-19.08.47:278][ 15]LogWorld: Bringing World /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom.developmentRoom up for play (max tick rate 0) at 2017.01.30-22.08.47
-[2017.01.30-19.08.47:278][ 15]LogWorld: Bringing up level for play took: 0.001417
-[2017.01.30-19.08.47:279][ 15]PIE: Info Play in editor start time for /Game/Assets/maps/developmentMaps/UEDPIE_0_developmentRoom 0.918
-[2017.01.30-19.10.40:396][495]LogSavePackage: Save=31.46ms
-[2017.01.30-19.10.40:396][495]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoomAE56BD8246EDDDFA961EFEB4B2AFE94A.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap'
-[2017.01.30-19.10.40:399][495]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom.umap
-[2017.01.30-19.10.40:417][495]LogFileHelpers: Saving map 'developmentRoom' took 0.111
-[2017.01.30-19.10.40:434][495]LogSavePackage: Save=10.63ms
-[2017.01.30-19.10.40:434][495]LogSavePackage: Moving '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/developmentRoom_BuiltDataE0D442B94EE07B198C2EA4A239F2E70C.tmp' to '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset'
-[2017.01.30-19.10.40:436][495]LogSavePackage:Display: Finished SavePackage ../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Assets/maps/developmentMaps/developmentRoom_BuiltData.uasset
-[2017.01.30-19.10.43:338][822]Cmd: CLOSE_SLATE_MAINFRAME
-[2017.01.30-19.10.43:668][823]Cmd: QUIT_EDITOR
-[2017.01.30-19.10.43:728][823]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.01.30-19.10.43:751][823]LogExit: Preparing to exit.
-[2017.01.30-19.10.44:311][823]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
-[2017.01.30-19.10.44:397][823]LogExit: Editor shut down
-[2017.01.30-19.10.44:398][823]LogExit: Transaction tracking system shut down
-[2017.01.30-19.10.44:522][823]LogObj: Freed 0b from 0 cluster array pools.
-[2017.01.30-19.10.44:522][823]LogExit: Object subsystem successfully closed.
-[2017.01.30-19.10.44:542][823]LogD3D11RHI: Shutdown
-[2017.01.30-19.10.44:542][823]LogD3D11RHI: CleanupD3DDevice
-[2017.01.30-19.10.44:648][823]LogD3D11RHI: ~FD3D11DynamicRHI
-[2017.01.30-19.10.44:656][823]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2017.01.30-19.10.44:656][823]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B795B91-4DFB-D658-4334-1EBEFF0A344C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=79261e63407afad88666eeac45b97bac%7C59c513c77e104fb391b6ddd67aba2485%7Cccfefd32-51bd-4421-aa1f-7f30b92f3991&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2017.01.30-19.10.44:656][823]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (246)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (243)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (242)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
-[2017.01.30-19.10.45:184][823]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
-[2017.01.30-19.10.45:184][823]LogDirectoryWatcher: A directory notification for 'B:/Programs/Epic/Epic Games/4.14/FeaturePacks/' was aborted.
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
-[2017.01.30-19.10.45:190][823]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Collections/' was aborted.
-[2017.01.30-19.10.45:190][823]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/Developers/laker/Collections/' was aborted.
-[2017.01.30-19.10.45:190][823]LogDirectoryWatcher: A directory notification for 'B:/Development/gameDevelopment/SaintCactus/PrimordialSoup/Saved/Collections/' was aborted.
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
-[2017.01.30-19.10.45:190][823]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module BspMode (226)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module Media (215)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module SessionServices (208)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
-[2017.01.30-19.10.45:191][823]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module MergeActors (193)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module SizeMap (192)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module TreeMap (191)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module XmlParser (183)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module Blutility (182)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
-[2017.01.30-19.10.46:083][823]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
-[2017.01.30-19.10.46:084][823]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module AutomationController (172)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module Layers (170)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module Persona (165)
-[2017.01.30-19.10.46:125][823]LogModuleManager: Shutting down and abandoning module Kismet (164)
-[2017.01.30-19.10.46:131][823]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
-[2017.01.30-19.10.46:131][823]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module Toolbox (161)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module OutputLog (158)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module GammaUI (157)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module Documentation (156)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module Niagara (155)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module PortalServices (152)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module AIModule (147)
-[2017.01.30-19.10.46:133][823]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SteamVR (142)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module OculusInput (138)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module CableComponent (135)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
-[2017.01.30-19.10.46:189][823]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module SourceControl (115)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module HotReload (108)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module MainFrame (107)
-[2017.01.30-19.10.46:190][823]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
-[2017.01.30-19.10.46:192][823]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
-[2017.01.30-19.10.46:194][823]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
-[2017.01.30-19.10.46:194][823]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
-[2017.01.30-19.10.46:295][823]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module Paper2D (100)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
-[2017.01.30-19.10.46:395][823]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module VREditor (94)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module Sequencer (89)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module MessageLog (87)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module AssetTools (86)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module UMG (84)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module Slate (82)
-[2017.01.30-19.10.46:396][823]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module Networking (76)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module Core (75)
-[2017.01.30-19.10.46:399][823]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
-[2017.01.30-19.10.46:399][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2017.01.30-19.10.46:400][823]LogDirectoryWatcher: A directory notification for '../../../../../../../Development/gameDevelopment/SaintCactus/PrimordialSoup/Content/' was aborted.
-[2017.01.30-19.10.46:400][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2017.01.30-19.10.46:404][823]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
-[2017.01.30-19.10.46:547][823]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
-[2017.01.30-19.10.46:643][823]LogDerivedDataCache: Shutdown
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
-[2017.01.30-19.10.46:643][823]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Messaging (45)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module InputCore (24)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module Settings (23)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module OculusRift (22)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
-[2017.01.30-19.10.46:644][823]LogOnline:Display: Unloading online subsystem: NULL
-[2017.01.30-19.10.46:644][823]LogModuleManager: Shutting down and abandoning module SSL (17)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module HTTP (16)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module XMPP (15)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module Landscape (12)
-[2017.01.30-19.10.46:646][823]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2017.01.30-19.10.46:652][823]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2017.01.30-19.10.46:654][823]LogExit: Exiting.
-[2017.01.30-19.10.46:658][823]Log file closed, 01/30/17 22:10:46
+[2017.02.02-17.23.58:742][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.02-17.23.58:742][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.02-17.23.58:754][  0]LogInit: Computer: SAINTLOUIS-PC
+[2017.02.02-17.23.58:754][  0]LogInit: User: saintlouis
+[2017.02.02-17.23.58:754][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.02.02-17.23.58:754][  0]LogInit: High frequency timer resolution =3.318387 MHz
+[2017.02.02-17.23.58:755][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.02.02-17.23.58:755][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.02-17.23.58:755][  0]LogMemory: Process Physical Memory: 263.85 MB used, 263.85 MB peak
+[2017.02.02-17.23.58:755][  0]LogMemory: Process Virtual Memory: 262.31 MB used, 262.31 MB peak
+[2017.02.02-17.23.58:755][  0]LogMemory: Physical Memory: 3313.63 MB used,  4816.05 MB free, 8129.68 MB total
+[2017.02.02-17.23.58:755][  0]LogMemory: Virtual Memory: 674.35 MB used,  4816.05 MB free, 134217728.00 MB total
+[2017.02.02-17.23.58:776][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2017.02.02-17.23.59:492][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.02-17.23.59:524][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2017.02.02-17.23.59:524][  0]LogD3D11RHI:       2017/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.02.02-17.23.59:525][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.02-17.23.59:525][  0]LogD3D11RHI:       0/0/4064 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.02-17.23.59:525][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.02-17.23.59:530][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.02-17.23.59:530][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2017.02.02-17.23.59:530][  0]LogWindows: EnumDisplayDevices:
+[2017.02.02-17.23.59:530][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2017.02.02-17.23.59:530][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2017.02.02-17.23.59:530][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2017.02.02-17.23.59:531][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2017.02.02-17.23.59:531][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.02.02-17.23.59:531][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2017.02.02-17.23.59:531][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.02.02-17.23.59:531][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.02.02-17.23.59:531][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.02-17.23.59:547][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.02.02-17.23.59:547][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.02-17.23.59:564][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.02.02-17.23.59:564][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/SaintLouis/Desktop/g/PrimordialSoup/Intermediate/Shaders/WorkingDirectory/4304/).
+[2017.02.02-17.23.59:564][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SaintLouis/AppData/Local/Temp/UnrealShaderWorkingDir/A52D1B744346469C609FA2B9D6F897C6/'.
+[2017.02.02-17.23.59:564][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.02-17.24.00:758][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.02-17.24.00:817][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.02-17.24.00:876][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.02-17.24.00:933][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.02-17.24.00:994][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.02-17.24.01:056][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.02-17.24.01:125][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.02-17.24.01:187][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.02-17.24.01:237][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.02-17.24.01:300][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.02-17.24.01:377][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.02-17.24.01:439][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.02-17.24.01:493][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.02-17.24.01:549][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.02-17.24.01:605][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.02-17.24.01:719][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.02-17.24.01:720][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.02-17.24.01:760][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.02-17.24.01:852][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.02-17.24.01:890][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.02-17.24.01:945][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.02-17.24.02:001][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.02-17.24.02:063][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.02-17.24.02:131][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.02-17.24.02:131][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.02-17.24.02:570][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.02-17.24.02:638][  0]LogDerivedDataCache: Loaded boot cache 0.07s 50MB C:/Users/SaintLouis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.02-17.24.02:638][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/SaintLouis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.02-17.24.02:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SaintLouis/Desktop/g/PrimordialSoup/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.02-17.24.02:639][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.02-17.24.02:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SaintLouis/Desktop/g/PrimordialSoup/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.02-17.24.02:639][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.02-17.24.02:659][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.02-17.24.02:671][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SaintLouis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.02-17.24.02:902][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.02-17.24.02:905][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.02-17.24.03:155][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.02-17.24.03:200][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.02-17.24.03:251][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.02-17.24.03:251][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.02-17.24.03:251][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.02-17.24.03:917][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: primordialsoup, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1510063732
+[2017.02.02-17.24.03:982][  0]LogAssetRegistry: FAssetRegistry took 0.0211 seconds to start up
+[2017.02.02-17.24.04:031][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.018457 seconds
+[2017.02.02-17.24.04:039][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.02-17.24.04:039][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.02.02-17.24.04:039][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.02-17.24.04:119][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.02-17.24.05:077][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.02-17.24.05:077][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.02-17.24.05:077][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.02-17.24.05:938][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.02-17.24.05:976][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.02-17.24.06:306][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.02-17.24.06:698][  0]SourceControl: Info Source control is disabled
+[2017.02.02-17.24.06:726][  0]SourceControl: Info Source control is disabled
+[2017.02.02-17.24.06:772][  0]SourceControl: Info Source control is disabled
+[2017.02.02-17.24.06:815][  0]SourceControl: Info Source control is disabled
+[2017.02.02-17.24.08:364][  0]LogEngine: Initializing Engine...
+[2017.02.02-17.24.08:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.02-17.24.08:685][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.02-17.24.08:711][  0]LogInit: XAudio2 using 'Наушники гарнитуры (Razer Kraken 7.1 Chroma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.02-17.24.08:731][  0]LogInit: FAudioDevice initialized.
+[2017.02.02-17.24.08:778][  0]LogDerivedDataCache: Saved boot cache 0.05s 50MB C:/Users/SaintLouis/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.02-17.24.08:798][  0]LogInit: Texture streaming: Enabled
+[2017.02.02-17.24.09:061][  0]LogInit: Transaction tracking system initialized
